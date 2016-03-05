@@ -1,0 +1,798 @@
+Frequency,Input,Callsign,Description,System/Category,Tag,Updated
+27.25500,,N/A,Park District: Lightning Detection System (Data),Elmhurst,Data,2010:04:29
+31.62000,,N/A,Operations,Forest Preserve District of DuPage County,Public Works,2012:04:18
+31.78000,,N/A,Maintenance,Forest Preserve District of DuPage County,Public Works,2012:04:18
+31.82000,,N/A,Maintenance,Forest Preserve District of DuPage County,Public Works,2012:04:18
+31.86000,,N/A,Maintenance (Mobiles),Forest Preserve District of DuPage County,Public Works,2012:04:18
+37.94000,,N/A,OEM: DuPage County Emergency Radio Network (DCERN) - some encryption,DuPage County Office of Homeland Security and Emergency Management (OHSEM),Emergency Ops,2009:03:17
+37.96000,,N/A,Highway Department - Base,DuPage County,Public Works,2012:04:18
+39.98000,,N/A,Highway Department - Mobiles,DuPage County,Public Works,2012:04:18
+44.76000,,N/A,Park District,Bloomingdale,Public Works,2009:03:17
+44.96000,,N/A,Park District,Bloomingdale,Public Works,2009:03:17
+45.36000,,N/A,IEMA: Weather Net,DuPage County Office of Homeland Security and Emergency Management (OHSEM),Emergency Ops,2009:03:17
+45.40000,,N/A,OEM: DuPage Medical Emergency Radio System (DMERS),DuPage County Office of Homeland Security and Emergency Management (OHSEM),Emergency Ops,2009:03:17
+45.44000,,N/A,IEMA: Tac-2,DuPage County Office of Homeland Security and Emergency Management (OHSEM),Emergency Ops,2009:03:17
+45.56000,,N/A,IEMA / LESERN,DuPage County Office of Homeland Security and Emergency Management (OHSEM),Emergency Ops,2009:03:17
+45.68000,,N/A,Milton Township,Townships,Public Works,2009:03:17
+46.58000,,N/A,Public Works,Wood Dale,Public Works,2013:02:01
+47.46000,,N/A,Buses [Ch 1?],Elgin School District U-46 (Bartlett),Schools,2009:03:21
+47.66000,,N/A,Buses [Ch 2?],Elgin School District U-46 (Bartlett),Schools,2009:03:21
+52.87000,52.17000,N/A,MOOSEFAR (West Chicago),Repeaters & Simplex,Ham,2011:09:22
+119.75000,,N/A,Clearance Delivery,Tower/Approach/Departure,Aircraft,2009:09:13
+120.90000,,N/A,DuPage Tower,Tower/Approach/Departure,Aircraft,2009:09:13
+121.80000,,N/A,DuPage Ground Control,Tower/Approach/Departure,Aircraft,2009:09:13
+122.30000,,N/A,Kankakee Flight Service RDO,Tower/Approach/Departure,Aircraft,2009:09:13
+122.55000,,N/A,Kankakee Flight Service RDO,Tower/Approach/Departure,Aircraft,2009:09:13
+122.95000,,N/A,"UNICOM (""Flight Center"")",Tower/Approach/Departure,Aircraft,2009:09:13
+122.95000,,N/A,DuPage Flight Center,Businesses,Aircraft,2011:09:16
+132.07500,,N/A,ATIS/ASOS (was 124.8),Tower/Approach/Departure,Aircraft,2012:03:19
+133.50000,,N/A,Approach/Departure (Chicago),Tower/Approach/Departure,Aircraft,2009:09:13
+145.15000,144.55000,N/A,N9IRG (Glendale Heights),Repeaters & Simplex,Ham,2011:09:22
+145.17000,144.57000,N/A,Indian Hill Amateur Radio Club - IHARC (Naperville),Repeaters & Simplex,Ham,2011:09:22
+145.19000,144.59000,N/A,Argonne Amateur Radio Club (Argonne Labs),Repeaters & Simplex,Ham,2011:09:22
+145.31000,144.71000,N/A,Wheaton Community Radio Amateurs (Wheaton),Repeaters & Simplex,Ham,2011:09:22
+145.39000,144.79000,N/A,Wheaton Community Radio Amateurs (Wheaton),Repeaters & Simplex,Ham,2011:09:22
+145.43000,144.83000,N/A,DuPage ARC (Downers Grove) - Severe Wx Nets,Repeaters & Simplex,Ham,2012:07:04
+145.49000,144.89000,N/A,Westmont EMA: Amateur Radio,Public Safety,Ham,2009:03:17
+145.71000,,N/A,DuPage Amateur Radio Communications (DARCOM),Public Safety,Ham,2009:03:17
+146.50500,,N/A,"K9WSS (Westmont) - simplex, IRLP node #4939",Repeaters & Simplex,Ham,2012:07:04
+146.97000,146.37000,N/A,Six Meter Club of Chicago (Hinsdale),Repeaters & Simplex,Ham,2011:09:22
+147.36000,147.96000,N/A,W9BZW (Wheaton),Repeaters & Simplex,Ham,2012:07:04
+147.42000,,N/A,York Amateur Radio Club 2m Simplex,Repeaters & Simplex,Ham,2011:09:22
+147.45000,,N/A,"DuPage OEM: Amateur Radio ""Command and Control""",Public Safety,Ham,2009:03:17
+147.51000,,N/A,"Naperville EMA / Severe Weather Spotters, etc.",Public Safety,Ham,2011:09:22
+147.54000,,N/A,Wheaton Community Radio Amateurs (Simplex),Repeaters & Simplex,Ham,2011:09:22
+151.02500,,N/A,York Township,Townships,Public Works,2009:03:17
+151.02500,,N/A,Bloomingdale Township Highway Department,Townships,Public Works,2012:09:07
+151.02500,,N/A,Downers Grove Township,Townships,Public Works,2009:03:17
+151.02500,,N/A,Lisle Township,Townships,Public Works,2009:03:17
+151.02500,,N/A,Naperville Township Roads,Townships,Public Works,2009:03:17
+151.02500,,N/A,Winfield Township,Townships,Public Works,2009:03:17
+151.05500,,N/A,Naperville Township Road Maintenance,Townships,Public Works,2009:03:17
+151.14500,,N/A,Park District (license expired 2003),Lisle,Public Works,2007:11:12
+151.17500,,N/A,Clarendon Blackhawk Mosquito Abatement Dist,Townships,Public Works,2007:11:08
+151.22000,,N/A,Park District: Maintenance,Wheaton,Public Works,2009:03:25
+151.22000,,N/A,Park District (also 118.8?),Downers Grove,Public Works,2007:11:08
+151.23500,,N/A,Park District: Community Center / Rice Pool,Wheaton,Public Works,2009:03:25
+151.23500,,N/A,Park District,Addison,Public Works,2007:11:08
+151.25000,,N/A,Police: Mobile Extenders - Mobiles-to-Portables,Forest Preserve District of DuPage County,Law Tac,2009:03:17
+151.25000,,N/A,Police: Mobile Extenders - Portables-to-Mobiles,Forest Preserve District of DuPage County,Law Tac,2012:04:18
+151.26500,159.34500,N/A,Park District / OEM Ops [LESTAC],Lombard,Multi-Dispatch,2007:11:12
+151.29500,,N/A,Public Works / Fire [Ch 5] / Park District (Villa Olivia),Bartlett,Public Works,2011:01:12
+151.32500,,N/A,Fire [Ch 12] (Forest Preserve District?),Lisle-Woodridge Fire Protection District,Fire-Tac,2007:11:12
+151.32500,159.43500,N/A,Operations / Police Alternate [Ch 1/2],Forest Preserve District of DuPage County,Public Works,2009:03:18
+151.37000,,N/A,Park District / Police Car-to-Car [Ch 5],Roselle,Multi-Tac,2007:11:12
+151.38500,153.68000,N/A,"Fire South - Darien-Woodridge, Hinsdale, Lisle-Woodridge, Warrenville - patched to STARCOM 21 TG 2702",DuPage Public Safety Communications (DU-COMM),Fire Dispatch,2015:04:28
+151.41500,,N/A,Park District,Westmont,Public Works,2007:11:08
+151.47500,159.39000,N/A,Park District,Glen Ellyn,Public Works,2009:03:17
+151.49000,,N/A,Elmhurst Chicago Stone (Elmhurst) - concrete trucks,Rock/Quarries/Cement Companies,Business,2009:03:21
+151.49000,,N/A,Park District: Aquatic Center & Rice Pool,Wheaton,Public Works,2009:03:25
+151.52000,,N/A,Engineering,Double Tree Hotel (Oak Brook) - former Hyatt Regency,Business,2005:02:13
+151.52000,,N/A,Salt Creek School? (Elmhurst),Salt Creek School District 48 (Villa Park/Elmhurst/Oak Brook/Oakbrook Terrace),Schools,2012:12:08
+151.58750,,N/A,Site 102 Carol Stream (Unidentified LCN),Ventronics (Metro Chicago),TRS,2012:07:31
+151.62500,,N/A,Albright Middle School (Villa Park) (old),Salt Creek School District 48 (Villa Park/Elmhurst/Oak Brook/Oakbrook Terrace),Deprecated,2009:03:17
+151.64570,,N/A,Admin/Operations/Security,Saint Isaac Jogues School (Hinsdale),Schools,2011:11:22
+151.65500,,N/A,Engineering/Mechanical,Medinah Country Club,Business,2006:08:14
+151.65500,,N/A,Park District: Maintenance/Security,Hanover Park,Public Works,2008:12:28
+151.68500,,N/A,Maintenance,Wheaton College,Schools,2007:09:03
+151.68500,,N/A,Addison Trail High School: Maintenance,"DuPage High School Distrct 88 (Addison, Villa Park)",Deprecated,2010:11:13
+151.68500,,N/A,Park District / Villa Olivia Ops,Bartlett,Public Works,2012:12:19
+151.68500,,N/A,Wheaton - Warrenville South High School: Buses/Security,Wheaton-Warrenville Community Unit School District 200,Schools,2008:10:11
+151.71500,,N/A,Operations,Double Tree Hotel (Oak Brook) - former Hyatt Regency,Business,2008:10:15
+151.71500,,N/A,Engineering/Mechanical,Medinah Country Club,Business,2006:08:14
+151.71500,,N/A,Villa Olivia Country Club [Ch 1],Country Clubs / Golf Courses,Business,2011:01:12
+151.74500,,N/A,Operations,Addison School District #4,Schools,2012:12:08
+151.74500,,N/A,Albright Middle School (Villa Park),Salt Creek School District 48 (Villa Park/Elmhurst/Oak Brook/Oakbrook Terrace),Schools,2012:12:08
+151.74500,,N/A,Fire [Ch 13],Lisle-Woodridge Fire Protection District,Fire-Tac,2007:11:12
+151.74500,,N/A,Downers Grove South High School: Paging ?,Consolidated High School District 99 (Downers Grove),Schools,2009:05:04
+151.76000,,N/A,Banana Republic,Oakbrook Center Mall,Business,2008:10:15
+151.77500,,N/A,Operations,Double Tree Hotel (Oak Brook) - former Hyatt Regency,Business,2005:02:13
+151.77500,159.72000,N/A,Butler National Golf Club (Oak Brook),Country Clubs / Golf Courses,Business,2015:05:06
+151.79000,,N/A,303 Transportation (Oakbrook Terrace),Taxis/Cabs,Transportation,2012:01:07
+151.80500,,N/A,Villa Olivia Country Club [Ch 2],Country Clubs / Golf Courses,Business,2011:01:12
+151.80500,154.54000,N/A,High School: Security,West Chicago Community High School District  94,Schools,2008:01:15
+151.80500,,N/A,Operations [Expired],Hinsdale Township High School District 86 (Hinsdale/Darien),Schools,2007:11:12
+151.83500,,N/A,High School,West Chicago Community High School District  94,Schools,2008:01:15
+151.83500,,N/A,Engineering/Mechanical,Medinah Country Club,Business,2006:08:14
+151.83500,,N/A,Operations,Darien School District 61,Schools,2008:01:15
+151.85000,159.81000,N/A,Park District Ops,Downers Grove,Public Works,2015:07:23
+151.86500,160.20000,N/A,Albright Middle School (Villa Park),Salt Creek School District 48 (Villa Park/Elmhurst/Oak Brook/Oakbrook Terrace),Schools,2013:10:31
+151.86500,,N/A,Engineering/Mechanical,Medinah Country Club,Business,2006:08:14
+151.89500,,N/A,Wheaton - Warrenville South High School,Wheaton-Warrenville Community Unit School District 200,Schools,2007:11:12
+151.92500,,N/A,Seven Bridges Golf Club - Operations,Woodridge,Public Works,2013:11:21
+151.92500,,N/A,Site 103 Naperville (Unidentified LCN),Ventronics (Metro Chicago),TRS,2008:10:09
+151.97000,159.99000,N/A,Maintenance / Operations [Ch 1],Elmhurst College,Schools,2010:05:30
+151.97750,160.14750,N/A,National Switching Services (W Chicago-in use),Railroads,Railroad,2012:09:12
+151.98500,,N/A,Operations,Salt Creek School District 48 (Villa Park/Elmhurst/Oak Brook/Oakbrook Terrace),Schools,2012:12:08
+152.00750,,N/A,Paging,Good Samaritan Hospital (Downers Grove),Data,2010:12:27
+152.29250,157.55250,N/A,South High School (Darien) - Safety/Maintenance,Hinsdale Township High School District 86 (Hinsdale/Darien),Schools,2008:01:25
+152.30000,157.56000,N/A,High School: Maintenance,West Chicago Community High School District  94,Schools,2008:01:15
+152.30750,,N/A,Glenbard Wastewater Authority Ops 1,Glenbard Wastewater Authority,Public Works,2013:04:03
+152.37500,157.63500,N/A,South High School,Hinsdale Township High School District 86 (Hinsdale/Darien),Schools,2007:11:12
+152.40500,157.66500,N/A,South High School (DPL072? Channel 4?),Hinsdale Township High School District 86 (Hinsdale/Darien),Schools,2013:03:03
+152.43500,157.69500,N/A,Glenbard West HS (Glen Ellyn) - maintenance?,Glenbard Township High School District 87,Schools,2009:03:24
+152.46500,157.72500,N/A,"Central High School: Maintenance, Athletics",Hinsdale Township High School District 86 (Hinsdale/Darien),Schools,2013:02:26
+152.87000,151.95500,N/A,High School (corrected),West Chicago Community High School District  94,Schools,2008:01:15
+152.87000,,N/A,Engineering,Double Tree Hotel (Oak Brook) - former Hyatt Regency,Business,2005:02:13
+152.87000,,N/A,Operations,Salt Creek School District 48 (Villa Park/Elmhurst/Oak Brook/Oakbrook Terrace),Schools,2012:12:08
+152.89250,,N/A,Admin/Operations/Security,Saint Isaac Jogues School (Hinsdale),Schools,2011:11:22
+152.92250,,N/A,Site 102 Carol Stream (Unidentified LCN),Ventronics (Metro Chicago),TRS,2012:07:31
+152.94500,,N/A,Public Works - licensed for analog and digital,Elmhurst,Public Works,2015:12:04
+152.98250,159.72750,N/A,Operations,Maercker School District 60 (Clarendon Hills),Schools,2015:12:04
+152.99000,,N/A,Taxi: Base-to-Mobiles (Dispatch),AAA/Universal Taxi (Lombard),Transportation,2010:11:23
+152.99750,159.98250,N/A,Central High School: Safety/Maintenance (Hindsdale),Hinsdale Township High School District 86 (Hinsdale/Darien),Schools,2008:01:25
+153.01250,,N/A,Water Distribution Data,Hinsdale,Data,2007:11:12
+153.07250,,N/A,Site 102 Carol Stream (Unidentified LCN),Ventronics (Metro Chicago),TRS,2012:07:31
+153.07250,,N/A,Site 002 Kane/DuPage (Confirmed LCN),Ventronics (Metro Chicago),TRS,2012:07:03
+153.46250,,N/A,Site 002 Kane/DuPage (Confirmed LCN),Ventronics (Metro Chicago),TRS,2012:07:03
+153.50000,150.77500,N/A,"Norcomm Fire Dispatch - MABAS Division 20 ""Divisionwide"" Channel",Superior Ambulance Service (Elmhurst),Fire-Tac,2009:03:18
+153.54500,,N/A,Taxi: Base-to-Mobiles (Dispatch),AAA/Universal Taxi (Lombard),Transportation,2006:10:24
+153.63500,150.80500,N/A,Fire: Dispatch,Southwest Central Dispatch (SWCD),Fire Dispatch,2013:11:22
+153.63500,150.80500,N/A,Fire: Dispatch,"Tri-State Fire Protection District (Darien, Willowbrook)",Fire Dispatch,2010:04:29
+153.63500,150.80500,N/A,Fire: Dispatch (300-series units),Clarendon Hills,Fire Dispatch,2015:04:14
+153.92000,,N/A,Public Works,Wheaton,Public Works,2009:03:25
+154.00250,,N/A,Public Works / Police: Car-to-Car,Warrenville,Public Works,2007:11:12
+154.04000,,N/A,Public Works / Police: Alternate,Winfield,Public Works,2007:11:12
+154.04000,,N/A,Public Works / Police Alternate,Villa Park,Public Works,2009:03:17
+154.04000,,N/A,Public Works / Emergency Management Agency,Elmhurst,Multi-Dispatch,2009:03:17
+154.04000,,N/A,{Link to} Elmhurst Fire,Elmhurst College,Fire-Tac,2010:05:30
+154.08500,,N/A,Sanitary District / Police: Tac [Lincoln 16],Hinsdale,Public Works,2007:11:12
+154.10000,,N/A,EMA: Tac / Snow Plows,Naperville,Emergency Ops,2012:12:08
+154.11500,159.07500,N/A,Public Works / Fire: Alternate [F-2],Oakbrook Terrace,Public Works,2007:11:12
+154.11500,,N/A,Police: Secondary / Public Works,Carol Stream,Multi-Talk,2006:07:14
+154.14500,159.29250,N/A,"Fire West - Bartlett, Hanover Park, Itasca, Roselle - patched to STARCOM 21 TG 2703",DuPage Public Safety Communications (DU-COMM),Fire Dispatch,2013:06:06
+154.17500,,N/A,West Chicago Fire Department (Airport Station),Public Safety,Fire Dispatch,2006:07:14
+154.17500,158.91000,N/A,"Fire North - Bloomingdale, Carol Stream, Glen Ellyn, Glenside, West Chicago, Wheaton, Winfield - patched to STARCOM 21 TG 2701",DuPage Public Safety Communications (DU-COMM),Fire Dispatch,2013:06:06
+154.25000,,N/A,Fire: Dispatch (Old),"Tri-State Fire Protection District (Darien, Willowbrook)",Deprecated,2010:02:21
+154.25000,,N/A,"Fire: Coordination with Pleasantview, others",Clarendon Hills,Fire-Talk,2015:04:14
+154.25000,,N/A,Fire: Former Dispatch (146.2 PL?),Darien-Woodridge Fire Protection District,Deprecated,2011:05:03
+154.25000,,N/A,Pleasantview FPD Dispatch,Pleasantview Fire Protection District,Fire Dispatch,2012:12:05
+154.31000,,N/A,Fire: Dispatch - Old,Oak Brook,Deprecated,2006:12:30
+154.31000,,N/A,Former Fire West,DuPage Public Safety Communications (DU-COMM),Deprecated,2013:06:06
+154.33250,,N/A,Fire: Tac 2,"Tri-State Fire Protection District (Darien, Willowbrook)",Fire-Tac,2007:11:12
+154.37000,,N/A,Fire: Dispatch (Stations/units 17 & 18),Bensenville,Fire Dispatch,2012:10:17
+154.41500,159.36750,N/A,"Fire East - Addison, Elmhurst, Lombard, Oak Brook, Oakbrook Terrace, Villa Park, York Center - patched to STARCOM 21 TG 2704",DuPage Public Safety Communications (DU-COMM),Fire Dispatch,2013:06:06
+154.49000,159.49500,N/A,Central High School: Security,Hinsdale Township High School District 86 (Hinsdale/Darien),Schools,2006:11:02
+154.49000,,N/A,Operations,Salt Creek School District 48 (Villa Park/Elmhurst/Oak Brook/Oakbrook Terrace),Schools,2012:12:08
+154.54000,,N/A,Board of Education [EXPIRED],Wheaton-Warrenville Community Unit School District 200,Schools,2007:11:12
+154.54000,,N/A,Seven Bridges Golf Club - Operations,Woodridge,Public Works,2013:11:21
+154.54000,,N/A,Alternate [Ch 2],Elmhurst College,Schools,2010:05:30
+154.54750,,N/A,Admin/Operations/Security,Saint Isaac Jogues School (Hinsdale),Schools,2011:11:22
+154.57000,,N/A,WalMart (Villa Park),Miscellaneous,Business,2014:11:14
+154.57000,,N/A,Jus-Fun Amusements (Oakbrook Terrace),Miscellaneous,Business,2009:09:08
+154.57000,,N/A,Willowbrook Wildlife Haven (Glen Ellyn),Forest Preserve District of DuPage County,Public Works,2012:04:18
+154.57000,,N/A,School Operations,Glen Ellyn Community Consolidated School District 89,Schools,2012:08:01
+154.60000,,N/A,Engineers,Double Tree Hotel (Oak Brook) - former Hyatt Regency,Business,2008:10:15
+154.60000,,N/A,Toys R Us (near SSM),Stratford Square Mall (Bloomingdale),Business,2009:09:13
+154.60000,,N/A,School Operations,Glen Ellyn Community Consolidated School District 89,Schools,2012:08:01
+154.60000,,N/A,Wal-Mart (near SSM),Stratford Square Mall (Bloomingdale),Business,2009:09:13
+154.60000,,N/A,"Banquets, Convention Services",Double Tree Hotel (Oak Brook) - former Hyatt Regency,Business,2009:05:09
+154.65000,,N/A,Police: Tac,Westmont,Law Tac,2009:04:24
+154.72500,,N/A,Police: Alternate,Clarendon Hills,Law Talk,2015:04:14
+154.72500,,N/A,Police: Alternate,Westmont,Law Talk,2015:04:16
+154.72500,,N/A,Police: Former Dispatch,Oak Brook,Deprecated,2015:04:16
+154.72500,,N/A,Police: Dispatch - Old,Hinsdale,Law Talk,2007:11:12
+154.72500,156.01500,N/A,"Police: Link to Westmont, Hindsdale, Oak Brook",Downers Grove,Law Tac,2007:11:08
+154.77000,,N/A,OEM: EMTAC 1,DuPage County Office of Homeland Security and Emergency Management (OHSEM),Emergency Ops,2009:03:17
+154.81500,,N/A,Police: Tac 5 (Fiat 2 - Task Force),Westmont,Law Tac,2013:08:08
+154.87500,,N/A,Police: Car-to-car,Willowbrook,Fire-Tac,2010:11:15
+154.87500,,N/A,"Police: Car-to-car, admin",Southwest Central Dispatch (SWCD),Multi-Dispatch,2007:11:08
+154.89000,,N/A,Police: Former Car-to-Base (license cxl'd 2/13),Addison,Deprecated,2012:03:02
+154.95500,,N/A,Fireground [Ch 13],Darien-Woodridge Fire Protection District,Fire-Tac,2011:05:07
+154.96500,,N/A,OEM: Primary Incident Command [DCOEM Main],DuPage County Office of Homeland Security and Emergency Management (OHSEM),Emergency Ops,2009:03:17
+154.96500,,N/A,EMA: Operations,Naperville,Emergency Ops,2012:12:08
+154.98000,,N/A,Public Works,Darien,Public Works,2007:11:08
+154.98000,,N/A,"Public Works [Expired, still in use?]",Hinsdale,Public Works,2007:11:12
+155.01000,,N/A,Police: Alternate,Clarendon Hills,Deprecated,2015:04:14
+155.01000,,N/A,Police: Former Base-to-Car / Car-to-Car [Ch. 2] (license cxl'd 2/13),Addison,Deprecated,2012:03:02
+155.01000,,N/A,Police: Car-to-Car/Alternate,Bensenville,Law Tac,2007:11:08
+155.01000,,N/A,Police: Alternate,West Chicago,Law Tac,2009:04:05
+155.02500,,N/A,OEM/ESMARN (Open Squelch),DuPage County Office of Homeland Security and Emergency Management (OHSEM),Emergency Ops,2012:12:31
+155.02500,,N/A,"OEM: Severe Weather Alerts, etc. (PL on base transmit only?)",DuPage County Office of Homeland Security and Emergency Management (OHSEM),Emergency Ops,2009:03:17
+155.04000,,N/A,"Public Works, Police Alternate [Signal 3]",Woodridge,Public Works,2012:04:19
+155.04000,,N/A,Fire [Ch 15] (Woodridge PW),Lisle-Woodridge Fire Protection District,Fire-Tac,2007:11:12
+155.05500,,N/A,Police: Tac 6 (I-REACH),Addison,Law Tac,2010:10:13
+155.08500,,N/A,Public Works (NEXTEL also?)/ Police: Alternate,Bloomingdale,Public Works,2013:02:01
+155.10000,,N/A,Police: Car-to-Car,Glen Ellyn,Law Talk,2011:03:21
+155.10000,,N/A,Police: Car-to-Car / Fire [F-4],Lombard,Public Works,2007:11:12
+155.10000,,N/A,Public Works,Lombard,Public Works,2010:07:09
+155.10000,,N/A,Public Works [Ch. 2],Addison,Public Works,2007:11:08
+155.14500,,N/A,Public Works / Police: Alternate [Ch 2],Burr Ridge,Public Works,2013:02:26
+155.14500,,N/A,Police: Alternate [Ch 2],Burr Ridge,Law Talk,2013:02:26
+155.14500,,N/A,Public Works / Police: Tac 1,Westmont,Public Works,2009:04:15
+155.14500,,N/A,Public Works / Police: Alternate [Ch 2],Burr Ridge,Public Works,2013:02:26
+155.14500,,N/A,Police: Alternate [Ch 2],Burr Ridge,Law Talk,2013:02:26
+155.16000,,N/A,Villa Olivia CC Ski Patrol,Country Clubs / Golf Courses,EMS-Tac,2011:01:12
+155.17500,,N/A,Buses,Maercker School District 60 (Clarendon Hills),Schools,2016:02:16
+155.22000,,N/A,Superior Ambulance,Superior Ambulance Service (Elmhurst),EMS-Tac,2009:03:18
+155.23500,,N/A,OEM: EMTAC 2,DuPage County Office of Homeland Security and Emergency Management (OHSEM),Emergency Ops,2009:03:17
+155.23500,,N/A,Buses? (unlicensed),Gower School District 62 (Willowbrook/Burr Ridge),Schools,2009:03:24
+155.23750,,N/A,Fire: Training,Downers Grove,Fire-Tac,2010:04:29
+155.26500,,N/A,Operations: Maintenance ? [Canceled 6/12],Salt Creek School District 48 (Villa Park/Elmhurst/Oak Brook/Oakbrook Terrace),Deprecated,2009:03:17
+155.26500,,N/A,Buses,Wood Dale School District 7,Schools,2009:04:08
+155.29500,,N/A,Buses,Bensenville Elementary School District 2,Schools,2009:01:16
+155.29500,,N/A,Buses,Burr Ridge Community Consolidated School District 180,Schools,2009:01:16
+155.29500,,N/A,Buses,Fenton High School District 100 (Bensenville),Schools,2009:01:16
+155.32500,,N/A,Superior Ambulance,Superior Ambulance Service (Elmhurst),EMS-Tac,2006:05:17
+155.34000,,N/A,Patient Reports,Hinsdale Hospital,Hospital,2010:12:27
+155.34000,,N/A,Patient Reports,Elmhurst Memorial Hospital,Hospital,2010:12:27
+155.34000,,N/A,Patient Reports,Good Samaritan Hospital (Downers Grove),Hospital,2010:12:27
+155.34000,,N/A,Patient Reports,Glen Oaks Medical Center (Glendale Heights),Hospital,2012:04:05
+155.34000,,N/A,Ambulance-to-Hospital Comms,Edward Hospital and Health Services (Naperville),Hospital,2010:12:27
+155.34000,,N/A,Patient Reports,Central DuPage Hospital (Winfield),Hospital,2012:04:05
+155.43000,,N/A,Police: Alternate,Willowbrook,Law Tac,2010:11:15
+155.43000,,N/A,OEM: EMTAC 3,DuPage County Office of Homeland Security and Emergency Management (OHSEM),Emergency Ops,2009:03:17
+155.52000,,N/A,Police: Car-to-Car,Bloomingdale,Law Tac,2007:11:08
+155.52000,,N/A,Police: Car-to-Car/Alternate [Ch 5],Hanover Park,Law Tac,2008:12:28
+155.52000,,N/A,Police: Alternate,Roselle,Law Tac,2007:11:12
+155.56500,,N/A,"Police: Alternate ""Old Band"" [Canceled 8/13]",Wheaton,Deprecated,2009:03:25
+155.61000,151.31000,N/A,Naperville Park District - 114.8 PL?,Naperville,Public Works,2012:09:11
+155.67000,,N/A,Police: Car-to-Car,Bartlett,Law Tac,2007:11:08
+155.68500,155.89500,N/A,Police: Car-to-Car [Lincoln 17],Hinsdale,Law Tac,2007:11:12
+155.68500,,N/A,Police: Tac,Westmont,Law Tac,2011:02:20
+155.70750,153.85250,N/A,Fire: DG & Westmont Dispatch (patched to STARCOM21 TG 2710),Westmont,Fire Dispatch,2013:08:08
+155.70750,153.85250,N/A,Fire: DG & Westmont Dispatch (Patched to STARCOM21 TG2710),Downers Grove,Fire Dispatch,2010:04:29
+155.71500,,N/A,Public Works,Roselle,Public Works,2007:11:12
+155.74500,,N/A,Village Greens Golf Course [Lic Canc.12/12)],Woodridge,Deprecated,2013:11:21
+155.74500,,N/A,Public Works / Police: Car-to-Car (Old),Warrenville,Public Works,2012:12:08
+155.76000,153.80000,N/A,EMA / Link To Will County OEM,Naperville,Emergency Ops,2012:12:08
+155.80500,,N/A,Police: Altenate [Code 4],Oak Brook,Law Tac,2007:11:12
+155.80500,,N/A,Public Works / Police: Alternate,Itasca,Public Works,2009:03:23
+155.80500,158.84250,N/A,Public Works,Oak Brook,Public Works,2014:05:21
+155.83500,158.87250,N/A,"Public Works, Police Alternate",Clarendon Hills,Public Works,2015:04:14
+155.88000,159.01500,N/A,Publc Works / ESDA (131.8 in),West Chicago,Multi-Dispatch,2009:03:18
+155.89500,,N/A,Public Works,Hanover Park,Public Works,2013:11:22
+155.92500,,N/A,Fire [Ch 16],Lisle-Woodridge Fire Protection District,Fire-Tac,2007:11:12
+155.94000,,N/A,EMA: Old Channel,Bensenville,Emergency Ops,2007:11:08
+156.10500,,N/A,Wayne Township,Townships,Public Works,2005:12:14
+156.15000,,N/A,Police: Car-to-Car/Tac,Downers Grove,Law Tac,2007:11:08
+156.15000,,N/A,Sheriff: Special Services (SWAT/MEG),DuPage County Sheriff's Office,Law Tac,2009:03:25
+156.19500,159.21000,N/A,Public Works [Ch 14],Lisle,Public Works,2016:02:16
+156.19500,,N/A,Fire [Ch 14] (Lisle PW),Lisle-Woodridge Fire Protection District,Fire-Tac,2016:02:16
+156.60000,,N/A,Park District: Water Park Ops,Lombard,Public Works,2010:07:07
+157.45000,,N/A,Hospital Paging,Elmhurst Memorial Hospital,Data,2009:10:05
+157.47000,,N/A,Paging? @ district offices,"Consolidated Community School District 93 (Bloomingdale, Carol Stream and Hanover Park)",Data,2012:08:01
+157.56000,152.30000,N/A,Housekeeping,Double Tree Hotel (Oak Brook) - former Hyatt Regency,Business,2005:10:06
+157.62000,,N/A,Operations (portables),Elmhurst College,Schools,2012:07:05
+158.16000,,N/A,Public Works / EMA / Police: Car-to-Car [Ch 3],Bensenville,Public Works,2012:02:13
+158.34000,152.87000,N/A,Operations,West Chicago Community High School District  94,Schools,2009:04:12
+158.34000,151.95500,N/A,Sales / Catering (Meeting Services Ops) OOS?,Double Tree Hotel (Oak Brook) - former Hyatt Regency,Business,2005:10:06
+158.34750,,N/A,Admin/Operations/Security,Saint Isaac Jogues School (Hinsdale),Schools,2011:11:22
+158.43000,,N/A,Operations,Fulton Contracting Company (Roselle),Business,2009:05:04
+158.73000,,N/A,Police: Car-to-Car/Alternate [Code 5],Oak Brook,Law Tac,2007:11:12
+158.74500,,N/A,"EMA / Police: Tac 2 ""Adam""",Westmont,Emergency Ops,2009:03:17
+158.74500,,N/A,Dial-A-Ride [expired 2003],Bensenville,Deprecated,2013:03:04
+158.79000,,N/A,Patch - DIRS VHF,DuPage Interoperable Radio System (DIRS),Interop,2005:07:24
+158.79000,,N/A,Patch - DIRS VHF (P25),DuPage Interoperable Radio System (DIRS),Interop,2012:04:18
+158.83500,,N/A,EMA / Police: Tac,Westmont,Emergency Ops,2009:03:17
+158.91000,,N/A,ESDA: Citywide / Police: Alternate,West Chicago,Deprecated,2013:02:22
+158.91000,,N/A,Sheriff: Former States Attorney [Expired],DuPage County Sheriff's Office,Deprecated,2009:03:25
+159.10500,160.06500,N/A,Police: Car-to-Car (Ch. 4?),Glen Ellyn,Law Tac,2009:03:18
+159.10500,160.06500,N/A,Water/Sewer Department,Glen Ellyn,Public Works,2009:03:17
+159.22500,,N/A,Park District: Cosley Animal Farm,Wheaton,Public Works,2009:03:25
+159.22500,,N/A,Park District,Bensenville,Public Works,2007:11:08
+159.25500,151.46000,N/A,Park District [licensed cancelled],Oakbrook Terrace,Public Works,2013:03:04
+159.28500,,N/A,Park District,Oak Brook,Public Works,2006:08:06
+159.42000,,N/A,Special Events,Forest Preserve District of DuPage County,Public Works,2009:03:17
+159.51000,,N/A,Engineering,Double Tree Hotel (Oak Brook) - former Hyatt Regency,Business,2005:02:13
+159.54750,,N/A,Glenbard Wastewater Authority Ops 2,Glenbard Wastewater Authority,Public Works,2013:04:03
+159.63000,,N/A,Taxi: Mobiles-to-Base,AAA/Universal Taxi (Lombard),Transportation,2008:06:10
+159.63000,,N/A,Public Works [Ch. 1] /Police [Ch. 3],Addison,Public Works,2009:03:18
+159.65250,,N/A,Gower School District - Busses?,Gower School District 62 (Willowbrook/Burr Ridge),Schools,2012:10:09
+159.70500,,N/A,Operations (portables),Elmhurst College,Schools,2012:07:05
+159.71250,,N/A,Water Distribution Data,Woodridge,Public Works,2007:06:24
+159.72000,,N/A,Maintenance,Wheaton College,Schools,2007:09:03
+159.76500,,N/A,Public Works - Water Collection / Treatment Data,Bloomingdale,Data,2014:05:07
+159.87000,,N/A,Operations,Fulton Contracting Company (Roselle),Business,2009:05:04
+159.88500,,N/A,Engineering,Double Tree Hotel (Oak Brook) - former Hyatt Regency,Business,2005:02:13
+159.91500,,N/A,Park District Ops,Downers Grove,Public Works,2012:12:24
+159.97500,,N/A,Operations (portables),Elmhurst College,Schools,2012:07:05
+160.00500,,N/A,Park District Ops,Downers Grove,Public Works,2012:12:24
+160.02000,,N/A,Park District Ops,Downers Grove,Public Works,2012:12:24
+160.03500,,N/A,Park District Ops,Downers Grove,Public Works,2012:12:24
+160.05000,,N/A,Taxi: Mobiles-to-Base,AAA/Universal Taxi (Lombard),Transportation,2010:11:23
+160.06500,,N/A,Park District Ops,Downers Grove,Public Works,2012:12:24
+160.10250,,N/A,Admin/Operations/Security,Saint Isaac Jogues School (Hinsdale),Schools,2011:11:22
+160.12500,,N/A,Operations (portables),Elmhurst College,Schools,2012:07:05
+160.13250,,N/A,Storm Water Data,Elmhurst,Data,2008:11:10
+173.23750,,N/A,Data (Runway Sensors?),Airport Facility Operations,Data,2009:09:13
+173.31250,,N/A,Water Distribution Data,Downers Grove,Data,2008:10:20
+173.37500,,N/A,Operations,Fulton Contracting Company (Roselle),Business,2009:05:04
+173.39625,,N/A,Water Distribution Data,Glen Ellyn,Data,2010:12:29
+220.80250,221.80250,N/A,Fire Station Alerting: East (154.415),DuPage Public Safety Communications (DU-COMM),Fire Dispatch,2013:06:06
+220.80750,221.80750,N/A,Future Use,DuPage Public Safety Communications (DU-COMM),Fire-Tac,2013:06:06
+220.81250,221.81250,N/A,Future Use,DuPage Public Safety Communications (DU-COMM),Fire-Tac,2013:06:06
+220.81750,221.81750,N/A,Fire Station Alerting: North (154.175),DuPage Public Safety Communications (DU-COMM),Fire Dispatch,2013:06:06
+220.82250,221.82250,N/A,Future Use,DuPage Public Safety Communications (DU-COMM),Fire-Tac,2013:06:06
+220.82750,221.82750,N/A,Future Use,DuPage Public Safety Communications (DU-COMM),Fire-Tac,2013:06:06
+220.83250,221.83250,N/A,Fire Station Alerting: West (154.145),DuPage Public Safety Communications (DU-COMM),Fire Dispatch,2013:06:06
+220.83750,221.83750,N/A,Future Use,DuPage Public Safety Communications (DU-COMM),Fire-Tac,2013:06:06
+220.84250,221.84250,N/A,Future Use,DuPage Public Safety Communications (DU-COMM),Fire-Tac,2013:06:06
+220.84750,221.84750,N/A,Fire Station Alerting: South (151.385),DuPage Public Safety Communications (DU-COMM),Fire Dispatch,2013:06:06
+220.86250,221.86250,N/A,Operations,Fulton Contracting Company (Roselle),Business,2009:05:04
+220.90250,221.90250,N/A,Future Use,DuPage Public Safety Communications (DU-COMM),Fire-Tac,2013:06:06
+220.90750,221.90750,N/A,Future Use,DuPage Public Safety Communications (DU-COMM),Fire-Tac,2013:06:06
+220.91250,221.91250,N/A,SCADA / Technicians Car-to-car,DuPage Public Safety Communications (DU-COMM),Fire-Tac,2013:06:06
+220.91750,221.91750,N/A,Future Use,DuPage Public Safety Communications (DU-COMM),Fire-Tac,2013:06:06
+220.92250,221.92250,N/A,Future Use,DuPage Public Safety Communications (DU-COMM),Fire-Tac,2013:06:06
+223.86000,222.26000,N/A,N9TO (Westmont),Repeaters & Simplex,Ham,2011:09:22
+224.14000,222.54000,N/A,Wheaton Community Radio Amateurs (Glen Ellyn),Repeaters & Simplex,Ham,2011:09:22
+224.20000,222.60000,N/A,Naperville PD: Amateur Radio Club,Public Safety,Ham,2011:09:22
+224.22000,222.62000,N/A,BARK (Bloomingdale),Repeaters & Simplex,Ham,2011:09:22
+224.36000,222.76000,N/A,FUBAR (Lisle),Repeaters & Simplex,Ham,2011:09:22
+224.50000,222.90000,N/A,WA9ZZU (Itasca),Repeaters & Simplex,Ham,2011:09:22
+224.62000,223.02000,N/A,WA9AEK (Lisle),Repeaters & Simplex,Ham,2011:09:22
+224.68000,223.08000,N/A,DuPage Amateur Radio Club (Downers Grove),Repeaters & Simplex,Ham,2011:09:22
+224.72000,223.12000,N/A,MOOSEFAR (West Chicago),Repeaters & Simplex,Ham,2011:09:22
+224.88000,222.26000,N/A,RAYFAR (Oak Brook),Repeaters & Simplex,Ham,2012:07:04
+257.80000,,N/A,Tower (UHF),Tower/Approach/Departure,Military,2009:09:13
+371.90000,,N/A,Approach/Departure (UHF),Tower/Approach/Departure,Military,2009:09:13
+441.85000,446.85000,N/A,West Chicago ESDA: Amateur Radio,Public Safety,Ham,2009:04:05
+442.17500,447.17500,N/A,"KG9F (Lisle) - kg9f.com - 'Closed system, open access'",Repeaters & Simplex,Ham,2012:07:04
+442.27500,447.27500,N/A,WA9WSL (Naperville),Repeaters & Simplex,Ham,2012:07:04
+442.55000,447.55000,N/A,DuPage Amateur Radio Club (Downers Grove),Repeaters & Simplex,Ham,2011:09:22
+442.70000,447.70000,N/A,WA9AEK (Lisle),Repeaters & Simplex,Ham,2011:09:22
+442.87500,447.87500,N/A,York Amateur Radio Club (Downers Grove),Repeaters & Simplex,Ham,2011:09:22
+442.95000,447.95000,N/A,WB9HYB (Westmont),Repeaters & Simplex,Ham,2012:07:04
+443.05000,448.05000,N/A,Naperville EMA / Severe Weather Spotters,Public Safety,Ham,2009:03:25
+443.20000,448.20000,N/A,FROGFAR #3 (Downers Grove),Repeaters & Simplex,Ham,2011:09:22
+443.90000,448.90000,N/A,SERCOMM (Downers Grove),Repeaters & Simplex,Ham,2011:09:22
+444.05000,449.05000,N/A,Tower ARC (Wheaton),Repeaters & Simplex,Ham,2011:09:22
+444.20000,449.20000,N/A,WD9DAU (Warrenville),Repeaters & Simplex,Ham,2012:07:04
+444.20000,449.20000,N/A,KB9OYP (Hinsdale),Repeaters & Simplex,Ham,2011:09:22
+444.25000,449.25000,N/A,Lombard OEM:  Amateur Radio,Public Safety,Ham,2011:09:22
+444.25000,449.25000,N/A,N9ECQ (Westmont),Repeaters & Simplex,Ham,2012:07:04
+444.27500,449.27500,N/A,KA9KDC (Wheaton),Repeaters & Simplex,Ham,2011:09:22
+444.47500,449.47500,N/A,Wheaton Community Radio Amateurs (Downers Grove),Repeaters & Simplex,Ham,2011:09:22
+444.87500,449.87500,N/A,K9XD (Glendale Heights),Repeaters & Simplex,Ham,2011:09:22
+450.31250,,N/A,Broadcast Operations,Wheaton College,Media,2007:09:03
+450.51250,,N/A,Broadcast Operations,Wheaton College,Media,2007:09:03
+451.03750,,N/A,Water Distribution Data,Lombard,Data,2007:11:12
+451.11250,,N/A,Avery Coonley School,Avery Coonley School (Downers Grove),Schools,2009:11:18
+451.12500,,N/A,Water Distribution Data,Warrenville,Deprecated,2007:11:12
+451.12500,,N/A,Water Distribution Data,Wood Dale,Data,2009:04:08
+451.17500,456.17500,N/A,Engineering,Medinah Country Club,Business,2006:08:14
+451.18750,456.18750,N/A,Operations [Ch 1] - Rangers?,Morton Arboretum (Lisle),Business,2007:10:13
+451.18750,,N/A,District 181,Community Consolidated School District 181 (Westmont),Schools,2009:05:04
+451.18750,456.18750,N/A,Windsor Park Manor (Carol Stream),Medical / Nursing / Lifecare Facilities,Business,2009:03:26
+451.21250,,N/A,Water Distribution Data,West Chicago,Data,2007:11:12
+451.28750,,N/A,Avery Coonley School,Avery Coonley School (Downers Grove),Schools,2009:11:18
+451.28750,,N/A,The Avery Coonley School (DG),Downers Grove School District 58,Schools,2009:09:18
+451.30000,456.30000,N/A,"Westway Coach - Villa Park D45, others",Westway Coach / Richlee Vans (Villa Park),Schools,2009:03:24
+451.31250,,N/A,Sears: Loss Prevention,Oakbrook Center Mall,Business,2013:10:22
+451.31250,456.31250,N/A,"Lake Park West High School: Hall Monitors, Admin",Lake Park High School District 108 (Roselle),Schools,2013:04:05
+451.31250,,N/A,Drury Lane Theatre & Conference Center: Operations,Drury Lane Theater (Oakbrook Terrace),Business,2013:10:22
+451.32500,,N/A,Site 001 Confirmed LCN,First Student (Darien),TRS,2008:10:11
+451.32500,456.32500,N/A,First Student - Westmont Yard,First Student (Multiple Locations),Schools,2015:09:30
+451.35000,456.35000,N/A,Security/Admin Ops,Midwestern University (Downers Grove),Security,2007:09:03
+451.35000,456.35000,N/A,Peacock Engineering: Truck Movement (Carol Stream),Factories,Business,2015:04:30
+451.38750,456.38750,N/A,"Lake Park East High School: Hall Monitors, Admin",Lake Park High School District 108 (Roselle),Schools,2013:04:05
+451.40000,,N/A,EMA: Tac,Westmont,Emergency Ops,2007:11:12
+451.41250,,N/A,Operations (D142?),Medinah Country Club,Business,2006:08:14
+451.41250,,N/A,District 181,Community Consolidated School District 181 (Westmont),Schools,2009:05:04
+451.43750,,N/A,Golf (Digital),Hilton Indian Lakes Resort (Bloomingdale),Data,2009:05:09
+451.46250,,N/A,Operations,Hinsdale Hospital,Business,2007:09:03
+451.47500,456.47500,N/A,Building Engineers,Midwestern University (Downers Grove),Schools,2007:09:03
+451.48750,456.48750,N/A,Operations [Ch 2],Morton Arboretum (Lisle),Business,2007:10:13
+451.48750,,N/A,Mohawk/Johnson Schools Ch. 1,Bensenville Elementary School District 2,Schools,2013:03:31
+451.51250,,N/A,Sears: Operations,Oakbrook Center Mall,Business,2013:10:22
+451.51250,,N/A,Water Distribution Data,Glen Ellyn,Data,2010:12:29
+451.53750,,N/A,Utility Crews,Naperville,Public Works,2009:08:31
+451.53750,,N/A,Operations,Medinah Country Club,Business,2013:01:08
+451.58750,,N/A,Tioga School Ch. 1,Bensenville Elementary School District 2,Schools,2013:03:31
+451.60000,456.60000,N/A,Franciscan Court - Maintenance/Security (W Chi),Medical / Nursing / Lifecare Facilities,Business,2005:11:20
+451.63750,,N/A,Water Distribution Data - Golf Course?,Glendale Heights,Data,2007:11:08
+451.63750,,N/A,Sears: Operations,Oakbrook Center Mall,Business,2013:10:22
+451.68750,,N/A,Water Distribution Data,Glen Ellyn,Data,2010:12:29
+451.73750,456.73750,N/A,Operations [Ch 3],Morton Arboretum (Lisle),Business,2007:10:13
+451.73750,456.73750,N/A,Lake Park East High School: Operations,Lake Park High School District 108 (Roselle),Schools,2013:04:05
+451.73750,456.73750,N/A,Wheaton-Warrenville South High School,Wheaton-Warrenville Community Unit School District 200,Schools,2008:10:11
+451.76250,,N/A,District 181,Community Consolidated School District 181 (Westmont),Schools,2009:05:04
+451.76250,456.76250,N/A,Lake Park West High School: Operations,Lake Park High School District 108 (Roselle),Schools,2013:04:05
+451.78750,456.78750,N/A,Operations (Aramark license),Central DuPage Hospital (Winfield),Business,2011:12:01
+451.78750,456.78750,N/A,Public Safety - simulcast w/461.100,Elmhurst Memorial Hospital,Security,2015:09:16
+451.82500,456.82500,N/A,Wheaton North High School: Maintenance/Safety,Wheaton-Warrenville Community Unit School District 200,Schools,2008:10:11
+451.83750,456.83750,N/A,Glenbard North HS (Carol Stream),Glenbard Township High School District 87,Schools,2009:03:24
+451.85000,456.85000,N/A,Maintenance,Wheaton College,Schools,2007:09:03
+451.87500,456.87500,N/A,American Taxi - School Channel (Oakbrook Terrace),Miscellaneous,Schools,2011:12:21
+451.88750,456.88750,N/A,Special Events 1 (rental repeater),College of DuPage (Glen Ellyn),Schools,2010:08:30
+451.90000,456.90000,N/A,Glenbard South HS (Glen Ellyn) - now 4kHz NXDN?,Glenbard Township High School District 87,Schools,2015:05:06
+451.93750,456.93750,N/A,First Student - Glen Ellyn [Ch 1 Big Busses],First Student (Multiple Locations),Schools,2013:08:19
+451.98750,,N/A,Portillos: Drive Thru Ops (#3 Elmhurst),Portillo's #3 (Elmhurst),Business,2009:03:26
+451.98750,456.98750,N/A,Cordia Senior Residence (Westmont),Medical / Nursing / Lifecare Facilities,Business,2009:03:26
+452.00000,,N/A,Site 001 Confirmed LCN,First Student (Darien),TRS,2008:10:11
+452.00000,457.00000,N/A,Eaglewood Resort - Housekeeping,Eaglewood Resort & Spa (Itasca),Business,2009:03:26
+452.06250,,N/A,Operations,Medinah Country Club,Business,2013:01:08
+452.06250,,N/A,Blackhawk Middle School Ch. 1,Bensenville Elementary School District 2,Schools,2013:03:31
+452.07500,457.07500,N/A,Hamilton Partners Complex Security (Itasca),Security Partners International,Security,2010:01:24
+452.11250,,N/A,The Avery Coonley School (DG),Downers Grove School District 58,Schools,2009:09:18
+452.11250,,N/A,Operations,Medinah Country Club,Business,2013:01:08
+452.12500,457.12500,N/A,American Delivery Service,Delivery Companies,Business,2005:10:06
+452.16250,457.16250,N/A,Operations [Ch 4],Morton Arboretum (Lisle),Business,2007:10:13
+452.18750,,N/A,Golf Club: Operations [Expired 1/06],Cantigny Park (Wheaton),Business,2008:06:10
+452.20000,457.20000,N/A,Business Ops Center (Elmhurst),Elmhurst Memorial Hospital,Business,2009:10:05
+452.23750,,N/A,Site 001 Confirmed LCN,First Student (Darien),TRS,2008:10:11
+452.27500,,N/A,Security,Gower School District 62 (Willowbrook/Burr Ridge),Schools,2006:11:13
+452.28750,,N/A,Avery Coonley School,Avery Coonley School (Downers Grove),Schools,2009:11:18
+452.28750,,N/A,The Avery Coonley School (DG),Downers Grove School District 58,Schools,2009:09:18
+452.30000,457.30000,N/A,McDonald's Lodge - unknown ops.,The Hyatt Lodge at McDonald's Campus (Oak Brook),Business,2009:03:26
+452.31250,,N/A,Utility Crews,Naperville,Public Works,2009:08:31
+452.35000,457.35000,N/A,Glenbard South HS (Glen Ellyn) - now 4 kHz NXDN?,Glenbard Township High School District 87,Schools,2015:05:06
+452.38750,,N/A,Blackhawk Middle School Ch. 2,Bensenville Elementary School District 2,Schools,2013:03:31
+452.40000,457.40000,N/A,Oakbrook Terrace Tower (Oakbrook Terrace) - leaky coax repeater (low power),Property Management,Business,2009:03:21
+452.41250,,N/A,Operations,Medinah Country Club,Business,2006:08:14
+452.43750,457.43750,N/A,Glenbard North HS (Carol Stream),Glenbard Township High School District 87,Schools,2012:11:29
+452.45000,,N/A,Operations,Benedictine University (Lisle),Schools,2012:10:01
+452.50000,457.50000,N/A,Glenbard West HS (Glen Ellyn) - administration?,Glenbard Township High School District 87,Schools,2009:03:24
+452.50000,,N/A,Wheaton North High School (licensed to Indian Prairie SD 204) WPPA707,Wheaton-Warrenville Community Unit School District 200,Schools,2007:11:12
+452.52500,,N/A,Water Distribution Data,Warrenville,Data,2007:11:12
+452.66250,457.66250,N/A,Public Safety (low power),North Central College (Naperville),Security,2008:09:19
+452.67500,457.67500,N/A,Downers Grove North High School,Consolidated High School District 99 (Downers Grove),Schools,2005:09:06
+452.67500,457.67500,N/A,Bartlett High School: Security / Admin / Maintenance,Elgin School District U-46 (Bartlett),Schools,2007:06:26
+452.71250,457.71250,N/A,Operations,Burr Ridge Community Consolidated School District 180,Schools,2007:12:04
+452.71250,,N/A,West Chicago Dist. 33 simplex,West Chicago Elementary School District 33,Schools,2010:01:24
+452.71250,,N/A,Operations (312 E Forest Ave),West Chicago Elementary School District 33,Schools,2010:02:09
+452.72500,457.72500,N/A,Oak Meadows Golf Club: Ops/Sprinkler Data,Country Clubs / Golf Courses,Business,2011:01:12
+452.72500,,N/A,Park District - Golf Course [Expired],Bloomingdale,Public Works,2007:11:08
+452.72500,457.72500,N/A,Bartlett High School,Elgin School District U-46 (Bartlett),Schools,2007:06:26
+452.75000,457.75000,N/A,Westway Coach,Westway Coach / Richlee Vans (Villa Park),Schools,2009:03:24
+452.78750,,N/A,Mohawk/Johnson Schools Ch. 2,Bensenville Elementary School District 2,Schools,2013:03:31
+452.81250,457.81250,N/A,A/V or Computer Services,Midwestern University (Downers Grove),Schools,2006:10:26
+452.81250,,N/A,Tioga School Ch. 2,Bensenville Elementary School District 2,Schools,2013:03:31
+452.82500,,N/A,Public Works: Wastewater Treatment Data,Addison,Data,2015:03:11
+452.83750,,N/A,McAninch Arts Center,College of DuPage (Glen Ellyn),Schools,2010:05:23
+452.83750,,N/A,Operations (electronics?),Medinah Country Club,Business,2006:08:14
+452.83750,457.83750,N/A,Special Events 2 (rental repeater),College of DuPage (Glen Ellyn),Schools,2010:08:30
+452.97500,457.97500,N/A,First Student - Glen Ellyn [Ch 2 Spec Ed],First Student (Multiple Locations),Schools,2010:08:31
+452.98750,457.98750,N/A,Copy Center,Midwestern University (Downers Grove),Schools,2006:10:26
+453.00000,,N/A,Site 001 Confirmed LCN,First Student (Darien),TRS,2008:10:11
+453.01250,,N/A,EMA: Operations,Bensenville,Emergency Ops,2007:11:08
+453.05000,458.05000,N/A,"Former Public Works, reported OOS (1/15)",Downers Grove,Deprecated,2015:01:14
+453.08750,,N/A,DuPage Stormwater Data,DuPage County,Data,2009:03:17
+453.21250,,N/A,Water Distribution Data,Westmont,Data,2009:03:17
+453.28750,458.28750,N/A,"Health Department (Wheaton): Security, Ops",DuPage County,Public Works,2013:03:04
+453.38750,,N/A,Sewer Operations,Elmhurst,Public Works,2013:02:11
+453.45000,458.45000,N/A,Cottage Hill Operating Co. (using City of Elmhurst license),Cottage Hill Operating Company (Villa Park),Schools,2009:03:17
+453.45000,,N/A,Public Works: Old / Police (with Lisle),Darien,Deprecated,2012:01:30
+453.50000,458.50000,N/A,Buildings & Grounds Maintenance,Airport Facility Operations,Public Works,2012:03:19
+453.51250,458.51250,N/A,Emergency Management (Portable Repeater),Lisle,Emergency Ops,2009:08:28
+453.56250,,N/A,DuPage Stormwater Data,DuPage County,Data,2009:03:16
+453.60000,458.60000,N/A,Police Department 'Com 2',College of DuPage (Glen Ellyn),Law Dispatch,2007:09:03
+453.63750,,N/A,Water Distribution Data,Roselle,Data,2007:11:12
+453.66250,,N/A,DuPage Stormwater Data,DuPage County,Data,2009:03:16
+453.73750,,N/A,"DuPage Stormwater Data (Wheaton, Elmhurst)",DuPage County,Data,2009:03:16
+453.76250,,N/A,Water Distribution Data,Itasca,Data,2014:02:28
+453.80000,,N/A,Public Works / Police: Car-to-Car,Darien,Public Works,2007:11:08
+453.83750,,N/A,Public Works: Data,Addison,Data,2009:03:18
+453.85000,458.85000,N/A,Juvenile Detention Facility (Wheaton) [Ch 1] [Expired],DuPage County Sheriff's Office,Deprecated,2009:03:17
+453.86250,458.86250,N/A,DuPage Water Commission Plant Ops 1 (LP R at HQ-Elmhurst),DuPage County,Public Works,2012:04:18
+453.86250,,N/A,DuPage Water Commission Mobile Extenders,DuPage County,Public Works,2013:09:05
+453.90000,458.90000,N/A,Tone Paging / Back-up Repeater 'Com 1' (OOS?),College of DuPage (Glen Ellyn),Law Dispatch,2010:05:29
+453.91250,,N/A,Fire: Mobile Extenders [No License],Hanover Park,Fire-Tac,2008:12:28
+456.18750,,N/A,District 181,Community Consolidated School District 181 (Westmont),Schools,2009:05:04
+456.24760,,N/A,Naperville Country Club: Golf Course Ops,Country Clubs / Golf Courses,Business,2006:08:16
+456.31250,,N/A,Wheaton-Warrenville South High School,Wheaton-Warrenville Community Unit School District 200,Schools,2008:10:11
+456.31250,,N/A,Sears: Operations,Oakbrook Center Mall,Business,2013:10:22
+456.33750,,N/A,Wheaton-Warrenville South High School,Wheaton-Warrenville Community Unit School District 200,Schools,2008:10:11
+456.33750,,N/A,Water Distribution Data,Oak Brook,Data,2013:08:17
+456.38750,,N/A,Drury Lane Theatre & Conference Center: Operations,Drury Lane Theater (Oakbrook Terrace),Business,2013:10:22
+456.41250,,N/A,District 181,Community Consolidated School District 181 (Westmont),Schools,2009:05:04
+456.41250,,N/A,Heritage Lakes Elementary School,"Consolidated Community School District 93 (Bloomingdale, Carol Stream and Hanover Park)",Schools,2012:08:01
+456.41250,,N/A,Operations,Medinah Country Club,Business,2013:01:08
+456.41250,,N/A,Wheaton-Warrenville South High School,Wheaton-Warrenville Community Unit School District 200,Schools,2008:10:11
+456.43750,,N/A,Water Distribution Data,Glen Ellyn,Data,2010:12:29
+456.46250,,N/A,Operations,Hinsdale Hospital,Business,2007:09:03
+456.48750,,N/A,Wheaton-Warrenville South High School,Wheaton-Warrenville Community Unit School District 200,Schools,2008:10:11
+456.48750,,N/A,Drury Lane Theatre & Conference Center: Operations,Drury Lane Theater (Oakbrook Terrace),Business,2013:10:22
+456.51250,,N/A,"McAninch Arts Center - Ushers, Front of House",College of DuPage (Glen Ellyn),Schools,2010:05:29
+456.53750,,N/A,Operations,Medinah Country Club,Business,2013:01:08
+456.63750,,N/A,Water Distribution Data - Golf Course?,Glendale Heights,Data,2009:04:13
+456.68750,,N/A,Drury Lane Theatre & Conference Center: Operations,Drury Lane Theater (Oakbrook Terrace),Business,2013:10:22
+456.73750,,N/A,Glenbard Wastewater Authority Ops 3,Glenbard Wastewater Authority,Public Works,2014:11:14
+456.73750,,N/A,General Binding: Maintenance/Security (Addisson),Factories,Business,2008:03:23
+456.91250,,N/A,Portillos: Drive-Thru Walking Order Takers (Rush Periods) (#3 Elmhurst),Portillo's #3 (Elmhurst),Business,2009:03:26
+457.03750,,N/A,Operations [Ch 1?],Timothy Christian School (Elmhurst),Schools,2009:05:20
+457.06250,,N/A,Operations,Medinah Country Club,Business,2013:01:08
+457.11250,,N/A,Operations,Medinah Country Club,Business,2006:08:14
+457.18750,,N/A,Golf Club: Operations [Expired 1/06],Cantigny Park (Wheaton),Business,2008:06:10
+457.28750,,N/A,Golf (Digital),Hilton Indian Lakes Resort (Bloomingdale),Data,2009:05:09
+457.28750,,N/A,Ball Horticulture Co (W Chicago),Miscellaneous,Business,2006:02:20
+457.31250,,N/A,McAninch Arts Center - Main,College of DuPage (Glen Ellyn),Schools,2010:05:29
+457.31250,,N/A,Naperville Country Club: Golf Course Ops,Country Clubs / Golf Courses,Business,2006:08:16
+457.31250,,N/A,Drury Lane Theatre & Conference Center: Operations,Drury Lane Theater (Oakbrook Terrace),Business,2013:10:22
+457.38750,,N/A,Water Distribution Data,Glen Ellyn,Data,2010:12:29
+457.41250,,N/A,McAninch Arts Center,College of DuPage (Glen Ellyn),Schools,2010:05:23
+457.41250,,N/A,Operations,Medinah Country Club,Business,2013:01:08
+457.45000,,N/A,Operations,Benedictine University (Lisle),Schools,2012:10:01
+457.51250,,N/A,Naperville Country Club: Golf Course Ops,Country Clubs / Golf Courses,Business,2006:08:16
+457.52500,,N/A,Golf Club: Data [Expired 1/06],Cantigny Park (Wheaton),Data,2008:06:10
+457.57500,,N/A,Golf Club: Data [Expired 1/06],Cantigny Park (Wheaton),Data,2008:06:10
+457.57500,,N/A,Water Distribution Data (Park District),Downers Grove,Data,2007:11:08
+457.60000,,N/A,Juvenile Detention Facility (Wheaton) [Ch 2],DuPage County Sheriff's Office,Deprecated,2009:03:16
+457.60000,,N/A,Water Distribution Data (Park District),Downers Grove,Data,2007:11:08
+457.68750,,N/A,Ball Horticulture Co (W Chicago),Miscellaneous,Business,2006:02:20
+457.70000,,N/A,Operations,Morton Arboretum (Lisle),Business,2015:05:06
+457.71250,,N/A,Golf (Digital),Hilton Indian Lakes Resort (Bloomingdale),Data,2009:05:09
+457.71250,,N/A,General Binding: Maintenance/Security (Addisson),Factories,Business,2008:03:23
+457.72500,,N/A,Operations,Morton Arboretum (Lisle),Business,2015:05:06
+457.73750,,N/A,McAninch Arts Center,College of DuPage (Glen Ellyn),Schools,2010:05:29
+457.75000,,N/A,Operations,Morton Arboretum (Lisle),Business,2015:05:06
+457.76250,,N/A,Concert Staff/Ops [No License?],Pheasant Run Resort (St Charles),Business,2009:03:02
+457.78750,,N/A,McAninch Arts Center,College of DuPage (Glen Ellyn),Schools,2010:05:23
+457.80000,,N/A,Operations,Morton Arboretum (Lisle),Business,2015:05:06
+457.81250,,N/A,Golf (Digital),Hilton Indian Lakes Resort (Bloomingdale),Data,2009:05:09
+457.83750,,N/A,Operations,Medinah Country Club,Business,2013:01:08
+457.83750,,N/A,McAninch Arts Center,College of DuPage (Glen Ellyn),Schools,2010:05:23
+457.85000,,N/A,Operations,Morton Arboretum (Lisle),Business,2015:05:06
+458.01250,,N/A,EMA: Operations,Bensenville,Emergency Ops,2007:11:08
+458.02500,,N/A,Park District,Wheaton,Public Works,2009:03:25
+458.08750,,N/A,Park District: Lightning Detection System,Downers Grove,Data,2007:06:23
+458.08750,,N/A,Park District: Village Links Golf Course [No License],Glen Ellyn,Business,2009:03:17
+458.12500,,N/A,Park District,Wheaton,Public Works,2009:03:25
+458.55000,,N/A,Cottage Hill Operating Co. (using City of Elmhurst license),Cottage Hill Operating Company (Villa Park),Schools,2012:02:06
+458.55000,,N/A,use by Cottage Hill Operating Company? (Villa Park school bus company),Elmhurst,Transportation,2010:12:29
+458.66250,,N/A,Park District: Village Links Golf Course [No License],Glen Ellyn,Business,2009:03:17
+458.83750,,N/A,Public Works: Data,Addison,Data,2009:03:18
+460.01250,,N/A,Park District: Lightning Detection System (Data),Elmhurst,Data,2007:09:19
+460.28750,,N/A,Sheriff: Bomb Robot - Data,DuPage County Sheriff's Office,Data,2010:05:23
+460.51250,,N/A,Fire: Mobile Extenders/Portables,Glenside Fire Protection District (Glendale Heights),Fire-Tac,2008:10:01
+461.03750,,N/A,Target (near SSM) (Ch 1),Stratford Square Mall (Bloomingdale),Business,2009:09:13
+461.05000,,N/A,Security,Gower School District 62 (Willowbrook/Burr Ridge),Schools,2006:11:13
+461.06250,,N/A,Bath & Body Works,Stratford Square Mall (Bloomingdale),Business,2009:09:13
+461.06250,,N/A,Restoration Hardware,Oakbrook Center Mall,Business,2008:10:15
+461.06250,,N/A,Bath & Body Works,Oakbrook Center Mall,Business,2008:10:15
+461.10000,466.10000,N/A,Ace Hardware: Corporate Safety/Maintenance (Woodridge),Miscellaneous,Business,2008:05:24
+461.10000,466.10000,N/A,Public Safety - simulcast w/451.7875,Elmhurst Memorial Hospital,Security,2015:09:16
+461.11250,466.11250,N/A,Macys,Oakbrook Center Mall,Business,2008:10:15
+461.17500,466.17500,N/A,Operations,Addison School District #4,Schools,2012:12:08
+461.17500,466.17500,N/A,Bartlett High School,Elgin School District U-46 (Bartlett),Schools,2007:06:24
+461.20000,466.20000,N/A,Downers Grove South High School,Consolidated High School District 99 (Downers Grove),Schools,2013:08:07
+461.20000,,N/A,Public College Ops,DuPage County Regional Office of Education (Wheaton),Schools,2007:06:13
+461.25000,466.25000,N/A,Maintenance - Old,Elmhurst Memorial Hospital,Business,2014:11:16
+461.25000,466.25000,N/A,Operations,Elmhurst Memorial Hospital,Business,2015:09:16
+461.26250,466.26250,N/A,Engineering/Mechanical,Medinah Country Club,Business,2009:04:06
+461.26250,,N/A,Housekeeping,Medinah Country Club,Business,2006:08:14
+461.30000,466.30000,N/A,Lombard Health Center / Immediate Care,Elmhurst Memorial Hospital,Business,2009:10:05
+461.32500,466.32500,N/A,Dietary [Deleted 3/13]*,Good Samaritan Hospital (Downers Grove),Deprecated,2007:09:03
+461.35000,,N/A,Public College Ops,DuPage County Regional Office of Education (Wheaton),Schools,2007:06:13
+461.37500,466.37500,N/A,Elmhurst Center For Health,Elmhurst Memorial Hospital,Business,2012:04:05
+461.38750,466.38750,N/A,Operations,Hinsdale Hospital,Business,2007:09:03
+461.40000,466.40000,N/A,Security (now MotoTRBO?),Good Samaritan Hospital (Downers Grove),Security,2013:08:27
+461.41250,,N/A,Operations (Portables),Hilton Indian Lakes Resort (Bloomingdale),Business,2009:05:09
+461.43750,466.43750,N/A,Cook Illinois School Bus (Carol Stream),Cook Illinois Corporation,Schools,2012:01:12
+461.45000,466.45000,N/A,Addison Trail High School: Admin/Maintenance (Addison),"DuPage High School Distrct 88 (Addison, Villa Park)",Schools,2009:03:17
+461.46250,466.46250,N/A,Macys - Loss Prevention,Oakbrook Center Mall,Business,2011:12:21
+461.47500,466.47500,N/A,Security and operations,Glen Oaks Medical Center (Glendale Heights),Security,2009:08:28
+461.51250,,N/A,Grounds,Medinah Country Club,Business,2006:08:14
+461.53750,466.53750,N/A,Glenbard East HS (Lombard) - encrypted?,Glenbard Township High School District 87,Schools,2010:05:12
+461.55000,466.55000,N/A,Westway Coach (Richlee Vans?),Westway Coach / Richlee Vans (Villa Park),Schools,2009:03:24
+461.60000,466.67500,N/A,Operations (Oak Brook) [Term],Timothy Christian School (Elmhurst),Schools,2009:09:21
+461.60000,466.60000,N/A,Operations,Universal Technical Institute (Lisle),Schools,2008:02:22
+461.68750,466.68750,N/A,Cook Illinois School Bus (Carol Stream),Cook Illinois Corporation,Schools,2012:01:12
+461.71250,466.71250,N/A,Downers Grove South High School,Consolidated High School District 99 (Downers Grove),Schools,2013:07:21
+461.71250,466.71250,N/A,Belmont Village (Carol Stream),Medical / Nursing / Lifecare Facilities,Business,2009:03:26
+461.71250,,N/A,Operations,Westin Northwest Hotel (Itasca),Business,2005:10:24
+461.75000,466.75000,N/A,Grounds,Central DuPage Hospital (Winfield),Business,2011:12:01
+461.76250,466.76250,N/A,Operations,Central DuPage Hospital (Winfield),Business,2011:12:01
+461.77500,466.77500,N/A,Security (Old),Good Samaritan Hospital (Downers Grove),Deprecated,2013:08:27
+461.77500,466.77500,N/A,Business/Maintenance,Good Samaritan Hospital (Downers Grove),Business,2005:12:06
+461.77500,466.77500,N/A,Grounds,Good Samaritan Hospital (Downers Grove),Business,2006:09:06
+461.78750,466.78750,N/A,Downers Grove North High School,Consolidated High School District 99 (Downers Grove),Schools,2013:08:07
+461.80000,466.80000,N/A,York High School [Ch 1],Elmhurst Community Unit School District 205,Schools,2013:05:19
+461.81250,466.81250,N/A,Security,McDonalds Corporation (Oakbrook),Security,2010:11:17
+461.83750,466.83750,N/A,Hotel Operations,Pheasant Run Resort (St Charles),Business,2013:01:06
+461.83750,,N/A,J.C. Penney - Loss Prevention (also 461.7125),Yorktown Center (Lombard),Security,2009:03:15
+461.85000,,N/A,Site 001 Confirmed LCN,Alcatel-Lucent (Naperville),TRS,2008:10:09
+461.86250,466.86250,N/A,Engineering/Mechanical,Medinah Country Club,Business,2009:04:06
+461.87500,466.87500,N/A,Ace Hardware: Corporate Safety/Maintenance (Oak Brook),Miscellaneous,Business,2008:05:24
+461.87500,466.87500,N/A,Lombard Health Center / Immediate Care,Elmhurst Memorial Hospital,Business,2015:09:16
+461.88750,,N/A,Operations,Hinsdale Hospital,Business,2007:09:03
+461.88750,466.88750,N/A,Illinois Central School Bus (West Chicago Yard),Illinois Central School Bus,Schools,2013:08:19
+461.90000,,N/A,Operations (Naperville-DuPage),Indian Prairie School District 204 (Aurora / Naperville),Schools,2008:12:22
+461.90000,466.90000,N/A,Operations,Fenton High School District 100 (Bensenville),Schools,2012:09:11
+461.93750,466.93750,N/A,Operations,Universal Technical Institute (Lisle),Schools,2015:12:04
+461.95000,466.95000,N/A,Macys [Ch 1],Oakbrook Center Mall,Business,2008:10:15
+461.97500,466.97500,N/A,Willowbrook High School: Admin/Maintenance (Villa Park),"DuPage High School Distrct 88 (Addison, Villa Park)",Schools,2009:03:17
+462.00000,,N/A,Operations - Simplex,Elmhurst Memorial Hospital,Business,2009:10:05
+462.02500,467.02500,N/A,Operations,Westin Northwest Hotel (Itasca),Business,2005:10:24
+462.03750,,N/A,Operations? [No License],Benedictine University (Lisle),Schools,2012:10:01
+462.05000,467.05000,N/A,York High School [Ch 2],Elmhurst Community Unit School District 205,Schools,2009:03:24
+462.07500,,N/A,Operations (Aurora-Kane),Indian Prairie School District 204 (Aurora / Naperville),Schools,2008:12:22
+462.10000,,N/A,Public Safety (former use),North Central College (Naperville),Deprecated,2007:09:03
+462.13750,467.13750,N/A,Patient Transportation,Good Samaritan Hospital (Downers Grove),Transportation,2007:09:03
+462.15000,467.15000,N/A,"Central Park of Lisle I, LP.; Safety / Security",Property Management,Business,2007:10:22
+462.16250,467.16250,N/A,Marriott Oak Brook - use unknown,Chicago Marriott Oak Brook (Oak Brook),Business,2009:03:26
+462.17500,467.17500,N/A,Environmental Services,Central DuPage Hospital (Winfield),Business,2011:12:01
+462.18750,,N/A,West Chicago Dist. 33 simplex,West Chicago Elementary School District 33,Schools,2010:01:24
+462.18750,467.18750,N/A,Operations (312 E Forest Ave),West Chicago Elementary School District 33,Schools,2010:02:09
+462.20000,,N/A,York High School: Sports,Elmhurst Community Unit School District 205,Schools,2009:03:24
+462.20000,,N/A,Public College Ops,DuPage County Regional Office of Education (Wheaton),Schools,2007:06:13
+462.22500,467.22500,N/A,Macys - Display Department,Oakbrook Center Mall,Business,2008:10:15
+462.26250,,N/A,Glenbard Wastewater Authority Ops 4,Glenbard Wastewater Authority,Public Works,2014:11:14
+462.28750,,N/A,Sanitary District Data,Downers Grove,Data,2007:11:08
+462.36250,,N/A,Glenbard Wasetwater Authority Ops 5,Glenbard Wastewater Authority,Public Works,2014:11:14
+462.36250,,N/A,Von Maur - Loss Prevention,Yorktown Center (Lombard),Security,2009:03:15
+462.37500,,N/A,Site 101 Unconfirmed LCN,Alcatel-Lucent (Naperville),TRS,2012:10:07
+462.38750,,N/A,Burglar and Fire Alarm Monitoring,Bensenville,Data,2011:08:17
+462.40000,467.40000,N/A,Eaglewood Resort - Food & Banquets,Eaglewood Resort & Spa (Itasca),Business,2009:03:26
+462.40000,,N/A,Operations (Aurora-Kane),Indian Prairie School District 204 (Aurora / Naperville),Schools,2008:12:22
+462.41250,,N/A,Ovaltine Court Apartments (Villa Park),Property Management,Business,2014:01:08
+462.41250,,N/A,Glenbard Wastewater Authority Ops 6,Glenbard Wastewater Authority,Public Works,2014:11:14
+462.43750,,N/A,Operations (deleted from license 4/12),Benedictine University (Lisle),Deprecated,2012:10:01
+462.43750,,N/A,Grounds (Old?),Medinah Country Club,Business,2006:08:14
+462.43750,,N/A,Operations,Medinah Country Club,Business,2013:01:08
+462.46250,,N/A,Downers Grove North High School,Consolidated High School District 99 (Downers Grove),Schools,2013:08:07
+462.48750,,N/A,Franzen Intermediate School (9/2015),Itasca School District 10,Schools,2015:09:17
+462.51250,467.51250,N/A,Operations (312 E Forest Ave),West Chicago Elementary School District 33,Schools,2010:02:09
+462.51250,467.51250,N/A,Park Place Retirement Community (Elmhurst),Medical / Nursing / Lifecare Facilities,Business,2016:02:16
+462.56250,,N/A,Operations,Naper Settlement (Naperville),Business,2012:10:07
+462.56250,,N/A,McCormick Museum: Tour Guides,Cantigny Park (Wheaton),Business,2009:01:28
+462.56250,,N/A,Peacock Middle School (9/2015),Itasca School District 10,Schools,2015:09:17
+462.58750,,N/A,Operations,Naper Settlement (Naperville),Business,2012:10:07
+462.58750,,N/A,Elsie C. Johnson Middle School (Hanover Park),"Consolidated Community School District 93 (Bloomingdale, Carol Stream and Hanover Park)",Schools,2012:10:09
+462.61250,,N/A,Operations,Naper Settlement (Naperville),Business,2012:10:07
+462.63750,,N/A,Operations,Naper Settlement (Naperville),Business,2012:10:07
+462.63750,,N/A,Sears Floor Associates,Stratford Square Mall (Bloomingdale),Business,2009:09:13
+462.68750,467.68750,N/A,Maintenance / Engineering  [No License?],Marianjoy Rehablitation Hospital (Wheaton),Business,2007:09:03
+462.72500,467.72500,N/A,Operations,McDonalds Corporation (Oakbrook),Business,2010:08:02
+462.75000,,N/A,"Paging (CSQ, Digital)",Edward Hospital and Health Services (Naperville),Data,2010:12:27
+462.75000,,N/A,Paging,Hinsdale Hospital,Business,2011:11:03
+462.76250,467.76250,N/A,Oak Brook Hills Resort - Meetings Ops.,Oak Brook Hills Marriott Resort (Oak Brook),Business,2009:03:26
+462.83750,467.83750,N/A,Engineering/Mechanical,Medinah Country Club,Business,2009:04:06
+462.87500,,N/A,Paging (& Voice Alerting?),Benedictine University (Lisle),Data,2007:12:04
+462.93750,,N/A,IT Department Ops,North Central College (Naperville),Schools,2009:09:12
+463.21250,468.21250,N/A,Park Operations,Cantigny Park (Wheaton),Business,2014:06:17
+463.21250,468.21250,N/A,"Bellmen, parking, etc.",Pheasant Run Resort (St Charles),Business,2013:01:06
+463.23750,468.23750,N/A,Glenbard East HS (Lombard) - encrypted?,Glenbard Township High School District 87,Schools,2010:05:12
+463.25000,468.25000,N/A,Operations,Marianjoy Rehablitation Hospital (Wheaton),Business,2007:04:13
+463.26250,468.26250,N/A,Illinois Central School Bus (Carol Stream Yard),Illinois Central School Bus,Schools,2013:08:19
+463.27500,,N/A,Shopping Center: Security Supervisors (Wrong?,Oakbrook Center Mall,Security,2008:11:01
+463.27500,,N/A,Hubble Middle School: Crisis Management (Maintenance?) (Wheaton) [TERMINATED],Wheaton-Warrenville Community Unit School District 200,Schools,2007:11:12
+463.27500,,N/A,Shopping Center: Security Supervisors [Ch 4],Oakbrook Center Mall,Security,2012:10:07
+463.28750,468.28750,N/A,Bolingbrook Promenade - Security,Promenade Bolingbrook,Security,2013:01:01
+463.30000,,N/A,Site 103 Aurora,Diga-Talk (NID-14),TRS,2012:07:29
+463.31250,,N/A,Buildings and Grounds,Marquardt School District 15 (Bloomingdale/Glendale Heights),Schools,2009:06:12
+463.31250,468.31250,N/A,Patient Transportation (Aramark license),Central DuPage Hospital (Winfield),Business,2011:12:01
+463.32500,468.32500,N/A,Oak Brook Hills Resort - Operations,Oak Brook Hills Marriott Resort (Oak Brook),Business,2009:03:26
+463.33750,,N/A,Maintenance/Engineering [No License],Central DuPage Hospital (Winfield),Business,2007:09:03
+463.35000,468.35000,N/A,RML Specialty Hospital Ops 1,RML Specialty Hospital (Hinsdale),Business,2012:01:12
+463.36250,468.36250,N/A,Patient Transportation,Good Samaritan Hospital (Downers Grove),Transportation,2012:10:07
+463.36250,,N/A,Buildings and Grounds,Marquardt School District 15 (Bloomingdale/Glendale Heights),Schools,2009:06:12
+463.40000,468.40000,N/A,Westfield Fox Valley  - Maintenance,Westfield Fox Valley (Aurora),Business,2015:03:23
+463.46250,,N/A,Buildings and Grounds,Marquardt School District 15 (Bloomingdale/Glendale Heights),Schools,2009:06:12
+463.48750,,N/A,Blackhawk Elementary School (Glendale Heights),Marquardt School District 15 (Bloomingdale/Glendale Heights),Schools,2010:08:30
+463.50000,468.50000,N/A,Downers Grove South High School,Consolidated High School District 99 (Downers Grove),Schools,2009:05:04
+463.51250,468.51250,N/A,Food and Beverage,Medinah Country Club,Business,2009:04:06
+463.52500,,N/A,Prairieview Elementary (Downers Grove),"Center Cass School District 66 (Downers Grove, Darien)",Schools,2009:05:04
+463.53750,468.53750,N/A,McDonald's Lodge - Ch. 1?,The Hyatt Lodge at McDonald's Campus (Oak Brook),Business,2009:03:26
+463.55000,,N/A,Enchanted Castle (Lombard),Miscellaneous,Business,2008:12:23
+463.55000,468.50000,N/A,Applied Telecom Technologies (Oakbrook Terrace) DPL 261?,Applied Telecom Technologies,Business,2009:01:20
+463.61250,,N/A,Operations [Ch 1],National University of Health Sciences (Lombard),Schools,2007:09:03
+463.66250,,N/A,Buildings and Grounds,Marquardt School District 15 (Bloomingdale/Glendale Heights),Schools,2009:06:12
+463.66250,468.66250,N/A,Bolingbrook Promenade - Maintenance,Promenade Bolingbrook,Business,2013:01:01
+463.67500,468.67500,N/A,Maintenance - Old,Elmhurst Memorial Hospital,Deprecated,2014:11:16
+463.68750,,N/A,Portillos: Order Pick-Up PA (#3 Elmhurst),Portillo's #3 (Elmhurst),Business,2009:03:26
+463.70000,,N/A,Operations - Old,Elmhurst Memorial Hospital,Deprecated,2009:10:05
+463.71250,468.71250,N/A,Addison Health Center / Immediate Care,Elmhurst Memorial Hospital,Business,2015:09:16
+463.71250,468.71250,N/A,McDonald's Lodge - Housekeeping?,The Hyatt Lodge at McDonald's Campus (Oak Brook),Business,2009:03:26
+463.72500,468.72500,N/A,Engineering / Trades & Grounds / Custodial 'Com 3',College of DuPage (Glen Ellyn),Schools,2007:09:03
+463.76250,,N/A,Buildings and Grounds,Marquardt School District 15 (Bloomingdale/Glendale Heights),Schools,2009:06:12
+463.76250,468.76250,N/A,Operations (also licensed for MOTOTRBO),Central DuPage Hospital (Winfield),Business,2011:12:01
+463.81250,,N/A,Wheaton Bible Church,Miscellaneous,Business,2006:08:29
+463.81250,468.81250,N/A,Beacon Hill (Lombard) (Ch 4),Medical / Nursing / Lifecare Facilities,Business,2009:03:26
+463.81250,468.81250,N/A,RML Specialty Hospital Ops 2,RML Specialty Hospital (Hinsdale),Business,2012:01:12
+463.85000,468.85000,N/A,Villa Park School Dist 45 - Administrative Channel,Villa Park School District 45,Schools,2010:04:06
+463.85000,,N/A,Buses/Bulding Ops,Timothy Christian School (Elmhurst),Schools,2012:10:07
+463.88750,,N/A,Operations (Portables),Hilton Indian Lakes Resort (Bloomingdale),Business,2009:05:09
+463.88750,,N/A,Cinemark Theatre (Woodridge),Miscellaneous,Business,2012:08:09
+463.91250,,N/A,Winnebago Elementary School [No License],Marquardt School District 15 (Bloomingdale/Glendale Heights),Schools,2010:08:30
+463.93750,468.93750,N/A,Engineering/Mechanical,Medinah Country Club,Business,2009:04:06
+463.95000,468.95000,N/A,Westfield Fox Valley  - Security,Westfield Fox Valley (Aurora),Business,2015:03:23
+463.96250,468.96250,N/A,South High School? (unlicensed),Hinsdale Township High School District 86 (Hinsdale/Darien),Schools,2009:03:24
+463.98750,468.98750,N/A,Bolingbrook Promenade - Operations,Promenade Bolingbrook,Business,2013:01:01
+464.00000,469.00000,N/A,Security,Edward Hospital and Health Services (Naperville),Security,2010:03:22
+464.00000,469.00000,N/A,Facility Ops,McDonalds Corporation (Oakbrook),Security,2010:02:22
+464.01250,469.01250,N/A,Glen Ellyn School District 41 - Hadley Jr. High,Glen Ellyn School District 41,Schools,2010:01:24
+464.01250,469.01250,N/A,Metea Valley High School: Ops / Hall Monitors (Aurora),Indian Prairie School District 204 (Aurora / Naperville),Schools,2013:05:28
+464.05000,469.05000,N/A,Facilities,Edward Hospital and Health Services (Naperville),Business,2010:03:22
+464.06250,469.06250,N/A,Physical Plant / Maintenance,Benedictine University (Lisle),Schools,2012:10:01
+464.07500,469.07500,N/A,Kraft Foods (Naperville),Factories,Business,2005:11:14
+464.10000,,N/A,Shopping Center: Security Tactical (Wrong?},Oakbrook Center Mall,Security,2008:11:01
+464.10000,,N/A,Shopping Center: Security - Tac [Ch 3],Oakbrook Center Mall,Security,2012:10:07
+464.12500,,N/A,Site 101 Unconfirmed LCN,Alcatel-Lucent (Naperville),TRS,2012:10:07
+464.17500,,N/A,Operations? [No License],Benedictine University (Lisle),Schools,2012:10:01
+464.17500,469.17500,N/A,Security (reported),Marianjoy Rehablitation Hospital (Wheaton),Security,2007:09:03
+464.18750,469.18750,N/A,"Security, Engineering, Admin",North Central College (Naperville),Schools,2008:11:27
+464.21250,469.21250,N/A,Glen Ellyn School District 41 - Franklin School,Glen Ellyn School District 41,Schools,2010:01:24
+464.21250,469.21250,N/A,Operations,Queen Bee School District 16 (Glendale Heights),Schools,2005:11:15
+464.25000,469.25000,N/A,First Student Bus (Batavia Yard?),West Chicago Elementary School District 33,Schools,2010:01:24
+464.25000,469.25000,N/A,Engineering/Mechanical,Medinah Country Club,Business,2009:04:06
+464.25000,469.25000,N/A,First Student - Batavia Yard (West Chicago D33),First Student (Multiple Locations),Schools,2009:03:24
+464.25000,469.25000,N/A,Admin/Maintenance/Security,St. Raphael School (Naperville),Schools,2009:09:21
+464.26250,469.26250,N/A,Engineering and Housekeeping,Hilton Indian Lakes Resort (Bloomingdale),Business,2009:03:25
+464.26250,469.26250,N/A,Park Place Retirement Community (Elmhurst): Operations,Medical / Nursing / Lifecare Facilities,Deprecated,2013:04:05
+464.30000,469.30000,N/A,Golf Operations,Hilton Indian Lakes Resort (Bloomingdale),Business,2009:03:25
+464.30000,469.30000,N/A,Admin/Maintenance/Security,St. Raphael School (Naperville),Schools,2009:09:21
+464.32500,,N/A,Park Operations,Cantigny Park (Wheaton),Business,2009:01:28
+464.33750,469.33750,N/A,Beacon Hill (Lombard) (Ch 1),Medical / Nursing / Lifecare Facilities,Business,2009:03:26
+464.33750,469.33750,N/A,Cushman & Wakefield of Illinois: Maintenance (@ Oak Brook) [Expired 1/06],Property Management,Business,2006:01:29
+464.37500,,N/A,Operations,McDonalds Corporation (Oakbrook),Business,2010:02:22
+464.37500,,N/A,Downers Grove North High School,Consolidated High School District 99 (Downers Grove),Schools,2013:08:07
+464.37500,469.37500,N/A,Mall Security,Stratford Square Mall (Bloomingdale),Security,2009:09:13
+464.37500,469.37500,N/A,"DuPage Flight Center, Ramp & Fueling Operations",Airport Facility Operations,Business,2009:09:13
+464.38750,469.38750,N/A,"Security, Engineering, Admin",North Central College (Naperville),Schools,2008:11:27
+464.41250,469.41250,N/A,Marriott Oak Brook - Building Engineers,Chicago Marriott Oak Brook (Oak Brook),Business,2009:03:26
+464.42500,,N/A,Downers Grove School District 58 (unlicensed),Downers Grove School District 58,Schools,2009:03:24
+464.42500,469.42500,N/A,Operations,Fenton High School District 100 (Bensenville),Schools,2009:03:24
+464.47500,,N/A,Fair Ops (Rental Radios?),Du Page County Fair,Business,2012:04:18
+464.47500,469.47500,N/A,ISSS / Construction,Edward Hospital and Health Services (Naperville),Business,2010:03:22
+464.47500,,N/A,Operations,Midwestern University (Downers Grove),Schools,2007:09:03
+464.50000,,N/A,Express/Express Men,Oakbrook Center Mall,Business,2008:10:15
+464.50000,469.50000,N/A,Trade Shows - Nationwide,McDonalds Corporation (Oakbrook),Business,2006:12:30
+464.50000,,N/A,Operations - Statewide Itenerant,Marianjoy Rehablitation Hospital (Wheaton),Business,2013:01:22
+464.51250,,N/A,Fry's Electronics (Downers Grove) - Sales Floor Ops,Miscellaneous,Business,2014:11:14
+464.52500,,N/A,High School Operations,Lake Park High School District 108 (Roselle),Schools,2013:04:03
+464.52500,,N/A,Site 101 Unconfirmed LCN,Alcatel-Lucent (Naperville),TRS,2012:10:07
+464.52500,469.52500,N/A,Construction,Edward Hospital and Health Services (Naperville),Deprecated,2010:03:22
+464.53750,,N/A,Operations (former Public Safety rptr. out - 97.4 PL),Benedictine University (Lisle),Schools,2012:10:01
+464.55000,,N/A,Costco (near SSM),Stratford Square Mall (Bloomingdale),Business,2009:09:13
+464.55000,,N/A,CompUSA/Tiger Direct (Vernon Hills),Miscellaneous,Business,2012:08:09
+464.55000,,N/A,Stratford Middle School,"Consolidated Community School District 93 (Bloomingdale, Carol Stream and Hanover Park)",Schools,2012:08:01
+464.55000,,N/A,Naperville Toyota,Miscellaneous,Business,2012:08:09
+464.55000,,N/A,Trade Shows - Nationwide,McDonalds Corporation (Oakbrook),Business,2006:12:30
+464.55000,,N/A,Chilis Restaurant (Downers Grove),Miscellaneous,Business,2012:08:09
+464.56250,,N/A,Operations [No License?],Pheasant Run Resort (St Charles),Business,2009:03:02
+464.57500,,N/A,Operations [No License],Lombard School District 44,Schools,2007:11:12
+464.57500,469.57500,N/A,Shopping Center: Security/Maintenance [Ch 1],Oakbrook Center Mall,Business,2008:10:15
+464.58750,469.58750,N/A,West Chicago Dist. 33 repeater,West Chicago Elementary School District 33,Schools,2010:01:24
+464.58750,469.58750,N/A,Operations (312 E Forest Ave),West Chicago Elementary School District 33,Schools,2010:02:09
+464.58750,469.58750,N/A,Operations,Edward Hospital and Health Services (Naperville),Business,2010:12:27
+464.60000,,N/A,Operations (Naperville-DuPage),Indian Prairie School District 204 (Aurora / Naperville),Schools,2008:12:22
+464.60000,,N/A,Paging and portables(?) [license cancelled 2010],Elmhurst College,Deprecated,2012:07:05
+464.62500,469.62500,N/A,Student Activities / Call Boxes 'Com 4',College of DuPage (Glen Ellyn),Schools,2007:09:03
+464.62500,,N/A,Protection / Safety - Old,Elmhurst Memorial Hospital,Deprecated,2014:11:16
+464.63750,469.63750,N/A,Public Safety Dispatch,Benedictine University (Lisle),Security,2012:10:01
+464.65000,,N/A,Parking,Odeum Sports and Expo Center (Villa Park),Business,2012:10:07
+464.65000,,N/A,Paging Operations,Wheaton College,Data,2009:10:02
+464.65000,,N/A,Health and Wellness Center: Paging/Ops,Good Samaritan Hospital (Downers Grove),Business,2010:12:27
+464.65000,,N/A,Metea Valley High School,Indian Prairie School District 204 (Aurora / Naperville),Schools,2009:07:31
+464.66250,469.66250,N/A,Glen Ellyn School District 41 - Lincoln School,Glen Ellyn School District 41,Schools,2010:01:24
+464.67500,469.67500,N/A,Public Safety,Wheaton College,Security,2007:09:03
+464.67500,,N/A,Westfield Fox Valley  - Operations,Westfield Fox Valley (Aurora),Business,2015:03:23
+464.67500,469.67500,N/A,Maintenance,Marquardt School District 15 (Bloomingdale/Glendale Heights),Schools,2010:08:30
+464.68750,469.68750,N/A,"Security, Engineering, Admin",North Central College (Naperville),Schools,2008:11:27
+464.70000,469.70000,N/A,Operations,Hinsdale Hospital,Business,2011:11:03
+464.71250,469.71250,N/A,Food and Beverage,Hilton Indian Lakes Resort (Bloomingdale),Business,2009:03:25
+464.71250,,N/A,Downers Grove South High School: Portables,Consolidated High School District 99 (Downers Grove),Schools,2009:05:04
+464.71250,469.71250,N/A,Security and Housekeeping,Hilton Indian Lakes Resort (Bloomingdale),Business,2009:03:25
+464.72500,469.72500,N/A,Applied Telecom Technologies (Oakbrook Terrace),Applied Telecom Technologies,Business,2009:01:20
+464.76250,469.76250,N/A,Glen Ellyn School District 41 - District Office,Glen Ellyn School District 41,Schools,2010:01:24
+464.77500,,N/A,Downers Grove North High School,Consolidated High School District 99 (Downers Grove),Schools,2013:08:07
+464.77500,469.77500,N/A,Security,Central DuPage Hospital (Winfield),Security,2012:04:05
+464.78750,,N/A,Public Safety Tactical? w/97.4 PL?,Benedictine University (Lisle),Security,2012:10:01
+464.81250,469.81250,N/A,Park Place Retirement Community (Elmhurst),Medical / Nursing / Lifecare Facilities,Business,2015:05:06
+464.82500,469.82500,N/A,Security,Hinsdale Hospital,Security,2007:09:03
+464.82500,469.82500,N/A,R Reef Management Company (@ Oakbrook),Miscellaneous,Business,2008:06:20
+464.82500,,N/A,Site 101 Unconfirmed LCN,Alcatel-Lucent (Naperville),TRS,2012:10:07
+464.82500,469.82500,N/A,Maintenance / Engineering,Good Samaritan Hospital (Downers Grove),Business,2007:09:03
+464.82500,469.82500,N/A,Security (reported) (also 156.7 ?),Glen Oaks Medical Center (Glendale Heights),Security,2007:09:03
+464.86250,469.86250,N/A,Environmental Services (EVS) / Housekeeping,Hinsdale Hospital,Business,2015:08:19
+464.86250,,N/A,Downers Grove South High School: Portables,Consolidated High School District 99 (Downers Grove),Schools,2009:05:04
+464.87500,,N/A,Fry's Store (Downers Grove) - OOS?,Miscellaneous,Business,2014:11:14
+464.87500,,N/A,Aurora Blacktop: Ops/Traffic Ops,Miscellaneous,Business,2009:10:06
+464.87500,469.87500,N/A,Maintenance and Admin.,Stratford Square Mall (Bloomingdale),Business,2009:09:21
+464.88750,469.88750,N/A,Operations,Burr Ridge Community Consolidated School District 180,Schools,2007:10:23
+464.90000,,N/A,Naperville Public Library,Naperville,Public Works,2012:12:08
+464.90000,469.90000,N/A,Glenbard West HS (Glen Ellyn) - maintenance,Glenbard Township High School District 87,Schools,2007:11:12
+464.91250,469.91250,N/A,"Security, Engineering, Admin",North Central College (Naperville),Schools,2008:11:27
+464.92500,469.92500,N/A,Operations,Odeum Sports and Expo Center (Villa Park),Business,2013:01:19
+464.92500,469.92500,N/A,Downers Grove South High School: Maintenance,Consolidated High School District 99 (Downers Grove),Schools,2012:11:06
+464.92500,469.92500,N/A,"Shopping Center: Security/Maintenance (Engineering) ""Tac 5"" [Ch 2]",Oakbrook Center Mall,Business,2010:02:21
+464.92500,469.92500,N/A,Mall Security - Ch 1 (also MOTOTRBO),Yorktown Center (Lombard),Security,2013:10:22
+464.93750,,N/A,Operations,Benedictine University (Lisle),Schools,2012:10:01
+464.96250,469.96250,N/A,Maintenance/Engineering,Central DuPage Hospital (Winfield),Business,2011:12:01
+464.97500,,N/A,Maintenance (reported),Hinsdale Hospital,Business,2007:09:03
+464.97500,469.97500,N/A,Park Operations,Cantigny Park (Wheaton),Business,2008:06:10
+464.97500,469.97500,N/A,Downers Grove North High School,Consolidated High School District 99 (Downers Grove),Schools,2013:08:07
+465.00000,,N/A,Paging,Westin Northwest Hotel (Itasca),Data,2005:10:24
+465.20000,,N/A,Police: Reported link for 155.52 receive - OOS?,Bloomingdale,Law Tac,2007:11:08
