@@ -1,4 +1,5 @@
 import csv
+import os.path
 import argparse
 from DatabaseConnection import DatabaseConnection
 
@@ -6,7 +7,7 @@ from DatabaseConnection import DatabaseConnection
 def parse_args():
     parser = argparse.ArgumentParser(description='Store Radio Reference CSV into a PostGreSQL Database')
 
-    parser.add_argument('input_file', help='The path to the Radio Reference CSV file')
+    parser.add_argument('input_file', help="The path to the Radio Reference CSV file, name should be SS_County.csv, where SS is the state's abbreviation")
     parser.add_argument('db', help='The name of the Database to create')
 
     parser.add_argument('-host', default='localhost', help='The hostname of the Database Instance')
@@ -15,6 +16,13 @@ def parse_args():
     parser.add_argument('-password', default=None, help='The password for the database')
 
     return parser.parse_args()
+
+
+def parse_file_name(input_file):
+    base_name = os.path.basename(input_file)
+    state = base_name.split('_')[0].upper()
+    county = base_name.split('_')[1].split('.')[0].upper()
+    return state, county
 
 
 def parse_file(input_file):
@@ -30,11 +38,22 @@ def parse_file(input_file):
 
 if __name__ == '__main__':
     args = parse_args()
+    state, county = parse_file_name(args.input_file)
+
+    print '[+] Parsing Data File'
     data = parse_file(args.input_file)
+    print '[+] Data Parsed Successfully...'
 
-    database = DatabaseConnection(args.db, args.host, args.port, args.username, args.password)
-
+    print '[+] Connecting To Database'
+    database = DatabaseConnection(state, county, args.db, args.host, args.port, args.username, args.password)
     database.connect()
+    print '[+] Database Connection Established...'
+
+    print '[+] Inserting Data For {0}, {1}'.format(county, state)
     database.create(data)
+    print '[+] Data Insertion Complete...'
+
+    print '[+] Committing Changes and Disconnecting'
     database.disconnect()
-    print '[+] Database Creation Complete'
+    print '[+] All Changes Persisted, Database Connection Terminated...'
+    print '[+] Complete'
