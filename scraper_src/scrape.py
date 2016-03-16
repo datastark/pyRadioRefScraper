@@ -1,5 +1,7 @@
 import csv
 import argparse
+
+from RadioRefScraper import LicenseScraper
 from RadioRefScraper import RadioRefScraper
 
 
@@ -20,6 +22,11 @@ def write_data(output_data, output_file):
 
 if __name__ == '__main__':
     args = parse_arguments()
-    scraper = RadioRefScraper(args.table_url)
+
+    if 'fccLicenses' in args.table_url:
+        scraper = LicenseScraper(args.table_url)
+    else:
+        scraper = RadioRefScraper(args.table_url)
+
     data = scraper.scrape()
     write_data(data, args.output_file)
