@@ -61,7 +61,7 @@ class DatabaseConnection:
         self.cursor.execute('CREATE TABLE IF NOT EXISTS FCC_STATION_CLASSES(CODE CHAR(5) PRIMARY KEY, DESCRIPTION VARCHAR);')
         self.cursor.execute('CREATE TABLE IF NOT EXISTS SIGNAL_TAGS(ID SERIAL PRIMARY KEY, TAG VARCHAR);')
         self.cursor.execute('CREATE TABLE IF NOT EXISTS LOCATIONS(ID SERIAL PRIMARY KEY, STATE CHAR(2), COUNTY VARCHAR);')
-        self.cursor.execute('CREATE TABLE IF NOT EXISTS SIGNALS(ID SERIAL PRIMARY KEY, FREQUENCY DOUBLE PRECISION, DESCRIPTION VARCHAR, SYSTEM VARCHAR, TAG INT REFERENCES TAGS(ID), LOCATION INT REFERENCES LOCATIONS(ID), UPDATED DATE);')
+        self.cursor.execute('CREATE TABLE IF NOT EXISTS SIGNALS(ID SERIAL PRIMARY KEY, FREQUENCY DOUBLE PRECISION, DESCRIPTION VARCHAR, SYSTEM VARCHAR, TAG INT REFERENCES SIGNAL_TAGS(ID), LOCATION INT REFERENCES LOCATIONS(ID), UPDATED DATE);')
         self.cursor.execute('CREATE TABLE IF NOT EXISTS LICENSES(ID SERIAL PRIMARY KEY, ENTITY VARCHAR, FREQUENCY DOUBLE PRECISION, GRANTED DATE, NUM_DEVICES INTEGER, STATION_CLASS CHAR(5) REFERENCES FCC_STATION_CLASSES(CODE), SERVICE CHAR(2) REFERENCES FCC_SERVICES(CODE), CITY VARCHAR, LOCATION INT REFERENCES LOCATIONS(ID))')
 
     def _insert_license_data(self, state, county, data):
@@ -75,11 +75,13 @@ class DatabaseConnection:
 
     def _insert_services(self, service_list):
         for service in service_list:
-            self.cursor.execute("INSERT INTO FCC_SERVICES(CODE, DESCRIPTION) VALUES('{0}', '{1}')".format(service[0], service[1]))
+            description = service['Description'].replace("'", "''")
+            self.cursor.execute("INSERT INTO FCC_SERVICES(CODE, DESCRIPTION) VALUES('{0}', '{1}')".format(service['Code'], description))
 
     def _insert_station_classes(self, class_list):
         for station_class in class_list:
-            self.cursor.execute("INSERT INTO FCC_STATION_CLASSES(CODE, DESCRIPTION) VALUES('{0}', '{1}')".format(station_class[0], station_class[1]))
+            description = station_class['Description'].replace("'", "''")
+            self.cursor.execute("INSERT INTO FCC_STATION_CLASSES(CODE, DESCRIPTION) VALUES('{0}', '{1}')".format(station_class['Code'], description))
 
     def _insert_location(self, state, county):
         existing_locations = self._get_existing_locations()
