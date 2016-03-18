@@ -53,7 +53,7 @@ if __name__ == '__main__':
     print '[+] Database Connection Established...'
 
     print '[+] Inserting Data For {0}, {1}'.format(county, state)
-    if type == 'signal':
+    if file_type == 'signal':
         database.insert_signals(state, county, data)
     else:
         database.insert_licenses(state, county, data)

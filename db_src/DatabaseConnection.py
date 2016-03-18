@@ -124,7 +124,7 @@ class DatabaseConnection:
     def _get_existing_tags(self):
         existing_tags = dict()
 
-        self.cursor.execute("SELECT ID, TAG FROM TAGS")
+        self.cursor.execute("SELECT ID, TAG FROM SIGNAL_TAGS")
         query_results = self.cursor.fetchall()
         for tag_row in query_results:
             existing_tags[tag_row[1]] = tag_row[0]
