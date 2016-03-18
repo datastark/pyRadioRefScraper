@@ -4,9 +4,7 @@ import datetime
 
 class DatabaseConnection:
 
-    def __init__(self, state, county, db_name, host, port, username, password):
-        self.state = state
-        self.county = county
+    def __init__(self, db_name, host, port, username, password):
         self.db_name = db_name
         self.host = host
         self.port = port
@@ -25,38 +23,73 @@ class DatabaseConnection:
         except psycopg2.Error:
             print '[-] Cannot Establish Database Connection...'
 
+        self._init_schema()
+
     def disconnect(self):
         self.connection.commit()
         self.cursor.close()
         self.connection.close()
 
-    def create(self, data):
+    def insert_services(self, service_list):
         if self.connection is None:
-            print '[-] Connection Not Established, Cannot Create'
+            print '[-] Connection Not Established, Cannot Insert Service Information'
+
+        self._insert_services(service_list)
+
+    def insert_station_classes(self, class_list):
+        if self.connection is None:
+            print '[-] Connection Not Established, Cannot Insert Service Information'
+
+        self._insert_station_classes(class_list)
+
+    def insert_signals(self, state, county, data):
+        if self.connection is None:
+            print '[-] Connection Not Established, Cannot Insert Signal Information'
             return
 
-        self._init_schema()
-        self._insert_data(data)
+        self._insert_signal_data(state, county, data)
+
+    def insert_licenses(self, state, county, data):
+        if self.connection is None:
+            print '[-] Connection Not Established, Cannot Insert License Information'
+            return
+
+        self._insert_license_data(state, county, data)
 
     def _init_schema(self):
-        self.cursor.execute('CREATE TABLE IF NOT EXISTS TAGS(ID SERIAL PRIMARY KEY, TAG VARCHAR);')
+        self.cursor.execute('CREATE TABLE IF NOT EXISTS FCC_SERVICES(CODE CHAR(2) PRIMARY KEY, DESCRIPTION VARCHAR);')
+        self.cursor.execute('CREATE TABLE IF NOT EXISTS FCC_STATION_CLASSES(CODE CHAR(5) PRIMARY KEY, DESCRIPTION VARCHAR);')
+        self.cursor.execute('CREATE TABLE IF NOT EXISTS SIGNAL_TAGS(ID SERIAL PRIMARY KEY, TAG VARCHAR);')
         self.cursor.execute('CREATE TABLE IF NOT EXISTS LOCATIONS(ID SERIAL PRIMARY KEY, STATE CHAR(2), COUNTY VARCHAR);')
         self.cursor.execute('CREATE TABLE IF NOT EXISTS SIGNALS(ID SERIAL PRIMARY KEY, FREQUENCY DOUBLE PRECISION, DESCRIPTION VARCHAR, SYSTEM VARCHAR, TAG INT REFERENCES TAGS(ID), LOCATION INT REFERENCES LOCATIONS(ID), UPDATED DATE);')
+        self.cursor.execute('CREATE TABLE IF NOT EXISTS LICENSES(ID SERIAL PRIMARY KEY, ENTITY VARCHAR, FREQUENCY DOUBLE PRECISION, GRANTED DATE, NUM_DEVICES INTEGER, STATION_CLASS CHAR(5) REFERENCES FCC_STATION_CLASSES(CODE), SERVICE CHAR(2) REFERENCES FCC_SERVICES(CODE), CITY VARCHAR, LOCATION INT REFERENCES LOCATIONS(ID))')
 
-    def _insert_data(self, data):
-        self._insert_location()
-        self._insert_tags(data)
-        self._insert_signals(data)
+    def _insert_license_data(self, state, county, data):
+        self._insert_location(state, county)
+        self._insert_licences(state, county, data)
 
-    def _insert_location(self):
+    def _insert_signal_data(self, state, county, data):
+        self._insert_location(state, county)
+        self._insert_signal_tags(data)
+        self._insert_signals(state, county, data)
+
+    def _insert_services(self, service_list):
+        for service in service_list:
+            self.cursor.execute("INSERT INTO FCC_SERVICES(CODE, DESCRIPTION) VALUES('{0}', '{1}')".format(service[0], service[1]))
+
+    def _insert_station_classes(self, class_list):
+        for station_class in class_list:
+            self.cursor.execute("INSERT INTO FCC_STATION_CLASSES(CODE, DESCRIPTION) VALUES('{0}', '{1}')".format(station_class[0], station_class[1]))
+
+    def _insert_location(self, state, county):
         existing_locations = self._get_existing_locations()
 
-        if self.state in existing_locations and self.county in existing_locations[self.state]:
-            raise Exception('[-] Data For {0}, {1} Already Inserted...'.format(self.county, self.state))
+        if state in existing_locations and county in existing_locations[state]:
+            return
 
-        self.cursor.execute("INSERT INTO LOCATIONS(STATE, COUNTY) VALUES('{0}', '{1}')".format(self.state, self.county))
+        self.cursor.execute("INSERT INTO LOCATIONS(STATE, COUNTY) VALUES('{0}', '{1}')".format(state, county))
 
-    def _insert_tags(self, data):
+    def _insert_signal_tags(self, data):
         existing_tags = self._get_existing_tags()
         new_tags = list()
         for row in data:
@@ -67,17 +100,24 @@ class DatabaseConnection:
         unique_new_tags = sorted(unique_new_tags)
 
         for tag in unique_new_tags:
-            self.cursor.execute("INSERT INTO TAGS(TAG) VALUES('{0}')".format(tag))
+            self.cursor.execute("INSERT INTO SIGNAL_TAGS(TAG) VALUES('{0}')".format(tag))
 
-    def _insert_signals(self, data):
+    def _insert_signals(self, state, county, data):
         tags = self._get_existing_tags()
         locations = self._get_existing_locations()
-        for index, row in enumerate(data):
+        for row in data:
             split_date = row['Updated'].split(':')
             updated = datetime.date(int(split_date[0]), int(split_date[1]), int(split_date[2]))
             description = row['Description'].replace("'", "''")
             system = row['System/Category'].replace("'", "''")
-            self.cursor.execute("INSERT INTO SIGNALS(FREQUENCY, DESCRIPTION, SYSTEM, TAG, LOCATION, UPDATED) VALUES({0}, '{1}', '{2}', {3}, {4}, '{5}')".format(row['Frequency'], description, system, tags[row['Tag']], locations[self.state][self.county], updated))
+            self.cursor.execute("INSERT INTO SIGNALS(FREQUENCY, DESCRIPTION, SYSTEM, TAG, LOCATION, UPDATED) VALUES({0}, '{1}', '{2}', {3}, {4}, '{5}')".format(row['Frequency'], description, system, tags[row['Tag']], locations[state][county], updated))
+
+    def _insert_licences(self, state, county, data):
+        locations = self._get_existing_locations()
+        for row in data:
+            split_date = row['Granted'].split('-')
+            granted = datetime.date(int(split_date[0]), int(split_date[1]), int(split_date[2]))
+            self.cursor.execute("INSERT INTO LICENSES(ENTITY, FREQUENCY, GRANTED, NUM_DEVICES, STATION_CLASS, SERVICE, CITY, LOCATION) VALUES('{0}', {1}, '{2}', {3}, '{4}', '{5}', '{6}', {7})".format(row['Entity'], row['Frequency'], granted, row['Units'], row['Code'], row['Svc'], row['City'], locations[state][county]))
 
     def _get_existing_tags(self):
         existing_tags = dict()

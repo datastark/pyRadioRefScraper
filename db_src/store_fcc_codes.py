@@ -7,7 +7,6 @@ from DatabaseConnection import DatabaseConnection
 def parse_args():
     parser = argparse.ArgumentParser(description='Store Radio Reference CSV into a PostGreSQL Database')
 
-    parser.add_argument('input_file', help="The path to the Radio Reference CSV file, name should be SS_County.csv, where SS is the state's abbreviation")
     parser.add_argument('db', help='The name of the Database to create')
 
     parser.add_argument('-host', default='localhost', help='The hostname of the Database Instance')
@@ -16,16 +15,6 @@ def parse_args():
     parser.add_argument('-password', default=None, help='The password for the database')
 
     return parser.parse_args()
-
-
-def parse_file_name(input_file):
-    base_name = os.path.basename(input_file)
-    state = base_name.split('_')[0].upper()
-    county = base_name.split('_')[1].split('.')[0].upper()
-    file_type = 'signal'
-    if 'Licenses' in base_name:
-        file_type = 'license'
-    return state, county, file_type
 
 
 def parse_file(input_file):
@@ -41,10 +30,12 @@ def parse_file(input_file):
 
 if __name__ == '__main__':
     args = parse_args()
-    state, county, file_type = parse_file_name(args.input_file)
+    service_code_file = '../resources/fcc_radio_services_map.csv'
+    station_class_file = '../resources/fcc_station_class_map.csv'
 
-    print '[+] Parsing Data File'
-    data = parse_file(args.input_file)
+    print '[+] Parsing Data Files'
+    service_code_data = parse_file(service_code_file)
+    station_class_data = parse_file(station_class_file)
     print '[+] Data Parsed Successfully...'
 
     print '[+] Connecting To Database'
@@ -52,11 +43,9 @@ if __name__ == '__main__':
     database.connect()
     print '[+] Database Connection Established...'
 
-    print '[+] Inserting Data For {0}, {1}'.format(county, state)
-    if type == 'signal':
-        database.insert_signals(state, county, data)
-    else:
-        database.insert_licenses(state, county, data)
+    print '[+] Inserting Data'
+    database.insert_services(service_code_data)
+    database.insert_station_classes(station_class_data)
     print '[+] Data Insertion Complete...'
 
     print '[+] Committing Changes and Disconnecting'
