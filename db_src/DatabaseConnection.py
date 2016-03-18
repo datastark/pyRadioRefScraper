@@ -119,7 +119,18 @@ class DatabaseConnection:
         for row in data:
             split_date = row['Granted'].split('-')
             granted = datetime.date(int(split_date[0]), int(split_date[1]), int(split_date[2]))
-            self.cursor.execute("INSERT INTO LICENSES(ENTITY, FREQUENCY, GRANTED, NUM_DEVICES, STATION_CLASS, SERVICE, CITY, LOCATION) VALUES('{0}', {1}, '{2}', {3}, '{4}', '{5}', '{6}', {7})".format(row['Entity'], row['Frequency'], granted, row['Units'], row['Code'], row['Svc'], row['City'], locations[state][county]))
+
+            entity = row['Entity'].replace("'", "''")
+
+            station_class = "'{0}'".format(row['Code'].upper())
+            if station_class == "''":
+                station_class = 'NULL'
+
+            service = "'{0}'".format(row['Svc'].upper())
+            if service == "''":
+                service = 'NULL'
+
+            self.cursor.execute("INSERT INTO LICENSES(ENTITY, FREQUENCY, GRANTED, NUM_DEVICES, STATION_CLASS, SERVICE, CITY, LOCATION) VALUES('{0}', {1}, '{2}', {3}, {4}, {5}, '{6}', {7})".format(entity, row['Frequency'], granted, row['Units'], station_class, service, row['City'].upper(), locations[state][county]))
 
     def _get_existing_tags(self):
         existing_tags = dict()
